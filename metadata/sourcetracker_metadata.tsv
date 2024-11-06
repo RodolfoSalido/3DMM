@@ -1,0 +1,1733 @@
+#SampleID	Env	SourceSink
+1674.McG.G110713Lb5	Soil (non-saline)	source
+11950.control.MFGypsum.wet.TP6.RE.DUP	building materials	source
+14542.NOD1S4.R10	ISS	sink
+14542.NOD3A4.L2	ISS	sink
+11950.control.Plywood.dry.TP2.2	building materials	source
+14542.JPM1A6.R1	ISS	sink
+1041.S019.100	Water (non-saline)	source
+14542.JLP1P1.R1.	ISS	sink
+14542.COL1F4.R2	ISS	sink
+11950.loc1.Gypsum.wet.TP4.DUP	building materials	source
+11950.loc1.Gypsum.wet.TP1.RE	building materials	source
+10317.X00166778	oral cavity	source
+14542.NOD3F5.L1	ISS	sink
+10317.X00175241	oral cavity	source
+10317.000049877	skin	source
+10317.000097032	skin	source
+12201.urine.male.C.2.microbiome.L	urine	source
+14542.LAB1S6.R1.	ISS	sink
+14542.NOD3F4.R1	ISS	sink
+1288.NSB18jul08E.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+990.KA2U.B.09	Soil (non-saline)	source
+14542.NOD3O5.L4	ISS	sink
+1222.B6.5.12.06	Water (saline)	source
+14542.NOD2O4.R4	ISS	sink
+14542.NOD1O4.R7	ISS	sink
+14542.JPM1D3.R2	ISS	sink
+14542.NOD2D2.L5	ISS	sink
+10317.000031935	skin	source
+11442.G72812	food	source
+11950.control.MDF.dry.TP0	building materials	source
+10317.000096968	skin	source
+14542.LAB1O3.R1	ISS	sink
+11442.G87461	food	source
+10317.000063280	skin	source
+12201.urine.male.B.1.microbiome.L	urine	source
+10317.000027340	skin	source
+12201.urine.male.C.1.nucleomag.L	urine	source
+1240.1801BCDNA	Water (saline)	source
+14542.NOD2S2.R4	ISS	sink
+14542.LAB1O2.L2	ISS	sink
+12201.uriM.A.1.homebrew.L	urine	source
+10317.000015737	oral cavity	source
+11442.G86752	food	source
+12201.urine.female.E.2.microbiome.L	urine	source
+945.P1.F12.lane2.NoIndex.L002	Water (non-saline)	source
+11950.control.MFGypsum.dry.TP1	building materials	source
+11950.loc2.Plywood.dry.TP4.DUP	building materials	source
+14542.NOD1P4.L2	ISS	sink
+945.P5.G9.lane2.NoIndex.L002	Water (non-saline)	source
+12201.uriF.E.3.pro.L	urine	source
+12201.uriF.E.2.norgen.L	urine	source
+10317.000069113	nose	source
+11950.loc2.Gypsum.wet.TP6.RE.DUP	building materials	source
+11442.G87450	food	source
+10317.000010466	nose	source
+1715.McG.NG2	Soil (non-saline)	source
+864.3.CON.addV.addG.noW.A.lane2.NoIndex	Soil (non-saline)	source
+11950.loc1.Gypsum.wet.TP3	building materials	source
+14542.NOD1S4.L3	ISS	sink
+14542.LAB1S6.L2.	ISS	sink
+2080.S54D2585	Water (saline)	source
+14542.PMM1P1.L8	ISS	sink
+1222.B6.5.10.06	Water (saline)	source
+14542.LAB1S6.R2	ISS	sink
+14542.NOD2S4.L2	ISS	sink
+10317.000098421	nose	source
+990.KA2F.A.22	Soil (non-saline)	source
+14542.PMM1O1.R6	ISS	sink
+11442.G72769	food	source
+1289.KH56	Soil (non-saline)	source
+723.IC3.S3.L3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+14542.NOD3F4.R5	ISS	sink
+14542.JPM1D1.L1	ISS	sink
+12201.uriF.E.1.norgen.L	urine	source
+14542.JPM1A6.L1	ISS	sink
+14542.NOD3O4.L2	ISS	sink
+11950.loc1.MFGypsum.wet.TP2.DUP	building materials	source
+10317.000157803	nose	source
+14542.JPM1F1.R1	ISS	sink
+10317.000007314	nose	source
+14542.LAB1O2.R1	ISS	sink
+11950.loc2.Plywood.wet.TP1.RE	building materials	source
+990.KA1U.E.16	Soil (non-saline)	source
+14542.JPM1O3.R1	ISS	sink
+12201.uriF.E.1.standard.L	urine	source
+14542.NOD3D5.R2	ISS	sink
+1222.B6.5.21.06	Water (saline)	source
+945.P4.B9.lane2.NoIndex.L002	Water (non-saline)	source
+1288.TBH05Aug08.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+10317.000014221	oral cavity	source
+10317.000105438	oral cavity	source
+10317.000023075	oral cavity	source
+14542.JPM1F5.L2	ISS	sink
+12201.uriF.P.1.qiagen.L	urine	source
+755.LSSF.ALPHA.D15.23.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+12201.urine.female.E.3.powersoil.L	urine	source
+10317.000012736	skin	source
+14542.NOD2O2.L4	ISS	sink
+945.P12.C10.lane5.NoIndex.L005	Water (non-saline)	source
+12201.uriF.F.1.homebrew.L	urine	source
+14542.JPM1O5.L2	ISS	sink
+755.EFB.19.07.11.lane1.NoIndex.L001	Water (non-saline)	source
+945.P9.B11.lane3.NoIndex.L003	Water (non-saline)	source
+10317.000012691	skin	source
+14542.JPM1F4.L1	ISS	sink
+10317.X00214372	feces	source
+10317.000097047	nose	source
+11950.loc2.Gypsum.wet.TP1.RE.DUP	building materials	source
+755.SSFA.L2.D3.26.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000098488	oral cavity	source
+11442.G87411	food	source
+12201.uriF.S.3.qiagen.L	urine	source
+14542.NOD2P4.L5	ISS	sink
+14542.NOD3O5.R3	ISS	sink
+12201.urine.male.A.2.nucleomag.L	urine	source
+990.KA2F.E.03	Soil (non-saline)	source
+723.C10.5m.G3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+14542.JLP1P1.L1.	ISS	sink
+12201.urine.female.E.1.zymoMA.L	urine	source
+10317.000007509	skin	source
+14542.JLP1A1.R2	ISS	sink
+10317.000036462	skin	source
+14542.NOD1S4.R3	ISS	sink
+10317.000096826	oral cavity	source
+723.IC1.S2.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+11442.G86701	food	source
+10317.000097026	oral cavity	source
+10317.000097064	skin	source
+10317.000031097	nose	source
+14542.NOD2O2.R6	ISS	sink
+10317.000041689	feces	source
+10317.000097179	nose	source
+10317.000047869	oral cavity	source
+10317.000015773	nose	source
+1240.2112BCDNA	Water (saline)	source
+723.C10.10m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+11950.loc2.MFGypsum.wet.TP4.DUP	building materials	source
+14542.LAB1O3.R2	ISS	sink
+10317.000059105	feces	source
+14542.NOD1P2.R1	ISS	sink
+10317.000087026	skin	source
+945.P2.G3.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000097063	nose	source
+990.KA3F.C.10	Soil (non-saline)	source
+14542.COL1O3.L1	ISS	sink
+11442.G87440	food	source
+11442.G83401	food	source
+14542.JLP1S1.R2	ISS	sink
+10317.000102982	feces	source
+1711.KFM9.2	Soil (non-saline)	source
+10317.000010444	nose	source
+10317.000030487	skin	source
+11950.loc2.Gypsum.dry.TP0.DUP	building materials	source
+11442.G75163	food	source
+10317.000007826	skin	source
+10317.000063248	skin	source
+12201.urine.female.F.1.microbiome.L	urine	source
+14542.NOD1O4.L5	ISS	sink
+11442.G87365	food	source
+1288.MAH01May08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+11442.G83462	food	source
+10317.000012627	skin	source
+10317.000050542	skin	source
+12201.uriM.B.2.pro.L	urine	source
+14542.LAB1O3.L1	ISS	sink
+11442.G72506	food	source
+12201.urine.female.F.3.microbiome.L	urine	source
+11950.loc1.MFGypsum.dry.TP6	building materials	source
+14542.PMM1O1.R5	ISS	sink
+14542.PMM1D1.R2	ISS	sink
+755.SSFB.L3.D40.7.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+12201.urine.male.A.2.powersoil.L	urine	source
+14542.NOD1S4.R2	ISS	sink
+11442.G73714	food	source
+11442.G83310	food	source
+14542.NOD2O4.R3	ISS	sink
+10317.000007847	skin	source
+10317.000076173	feces	source
+11950.control.MFGypsum.dry.TP4.DUP	building materials	source
+14542.A.L1O1.L2	ISS	sink
+11442.G83311	food	source
+10317.000010354	nose	source
+1288.MAH16July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+10317.000009541	feces	source
+14542.NOD2O4.L2	ISS	sink
+12201.uriF.F.1.zymo.L	urine	source
+10317.000096863	nose	source
+14542.LAB1P4.L1	ISS	sink
+14542.NOD2D2.R2	ISS	sink
+945.P3.D9.lane2.NoIndex.L002	Water (non-saline)	source
+14542.JLP1F1.R3	ISS	sink
+10317.000005086	skin	source
+14542.NOD3O4.L3	ISS	sink
+861.C17.dec08	Water (saline)	source
+14542.NOD1P2.L3	ISS	sink
+14542.JLP1S1.R1	ISS	sink
+10317.000097031	nose	source
+10317.000155856	oral cavity	source
+14542.NOD1S4.R6	ISS	sink
+1288.TBH08Nov07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+10317.X00179657	feces	source
+11442.G75167	food	source
+11442.G73988	food	source
+10317.000115490	feces	source
+11442.G74086	food	source
+11442.G75175	food	source
+1883.2005.19.Crump.Artic.LTREB.main.lane4.NoIndex	Water (non-saline)	source
+1222.B3.5.21.06	Water (saline)	source
+11442.G90220	food	source
+10317.000068709	oral cavity	source
+14542.A.L1F1.L1	ISS	sink
+10317.000015212	skin	source
+10317.000049874	nose	source
+12201.urine.male.C.3.microbiome.L	urine	source
+14542.NOD3D4.L5	ISS	sink
+14542.NOD1S4.L6	ISS	sink
+10317.000068951	skin	source
+11950.loc2.Plywood.wet.TP2.RE.DUP	building materials	source
+12201.urine.male.A.1.powersoil.L	urine	source
+10317.000006824	skin	source
+14542.NOD1P4.L9	ISS	sink
+10317.000007387	nose	source
+14542.NOD3O4.R2	ISS	sink
+11950.control.MFGypsum.wet.TP4.RE	building materials	source
+723.AcidCtrl3.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+10317.000028895	feces	source
+1240.0806T	Water (saline)	source
+10317.000023039	oral cavity	source
+11442.G83419	food	source
+10317.000031384	oral cavity	source
+12201.uriF.D.3.magmax.L	urine	source
+11950.loc1.Gypsum.wet.TP2.RE	building materials	source
+1288.MAE30July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+10317.000096855	nose	source
+10317.000013251	feces	source
+11442.G83434	food	source
+10317.000007776	skin	source
+11950.loc2.Gypsum.wet.TP2.RE	building materials	source
+1288.SSBE24Sept07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+11950.control.Plywood.dry.TP2.RE.DUP.2	building materials	source
+1883.2009.36.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+11442.G87526	food	source
+755.SSFB.L1.D20.07.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11950.loc2.Gypsum.wet.TP2.RE.DUP	building materials	source
+755.SSFB.L1.D5.28.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+864.13.OTC.addV.noG.noW.lane2.NoIndex	Soil (non-saline)	source
+11442.G75591	food	source
+10317.000098472	oral cavity	source
+14542.PMM1S1.R8	ISS	sink
+11950.control.Gypsum.wet.TP4.DUP	building materials	source
+755.LSSF.ZETA.D5.22.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000039819	feces	source
+11950.control.MFGypsum.wet.TP6.RE	building materials	source
+10317.000097023	nose	source
+14542.NOD1P4.R2	ISS	sink
+14542.NOD1P2.L8	ISS	sink
+14542.LAB1S2.R1	ISS	sink
+12201.urine.female.D.1.powersoil.L	urine	source
+990.KA1F.A.09	Soil (non-saline)	source
+10317.000013184	skin	source
+10317.000089580	oral cavity	source
+14542.LAB1D1.R1	ISS	sink
+14542.COL1O4.L2	ISS	sink
+10317.000005419	skin	source
+864.1.CON.addV.addG.noW.A.lane2.NoIndex	Soil (non-saline)	source
+14542.NOD2O4.L6	ISS	sink
+11950.control.Plywood.wet.TP0	building materials	source
+755.SSFA.L2.D5.26.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11950.control.Plywood.dry.TP0	building materials	source
+1721.S12M	Soil (non-saline)	source
+14542.PMM1O1.L6	ISS	sink
+11950.loc2.MFGypsum.wet.TP4.RE.DUP	building materials	source
+11442.G83231	food	source
+12201.urine.female.E.3.nucleomag.L	urine	source
+755.SSFA.L2.D1.12.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11950.loc1.Plywood.dry.TP2	building materials	source
+11442.G75746	food	source
+10317.000050553	skin	source
+10317.000006995	skin	source
+10317.000023645	oral cavity	source
+14542.NOD3A5.R6	ISS	sink
+14542.LAB1D4.L2	ISS	sink
+14542.NOD2S4.R5	ISS	sink
+14542.NOD1P2.L1	ISS	sink
+14542.JPM1F6.R1	ISS	sink
+10317.000079774	oral cavity	source
+755.SSFB.L3.D20.18.10.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.NOD2O4.L1	ISS	sink
+10317.000013312	feces	source
+14542.COL1O3.R2	ISS	sink
+11950.loc1.MFGypsum.dry.TP6.RE	building materials	source
+1288.FBH05July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+1288.TBE10Nov07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+14542.NOD1S2.R5	ISS	sink
+14542.NOD2.F4	ISS	sink
+11442.G75713	food	source
+1240.1708TCDNA	Water (saline)	source
+1883.2010.287.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+11442.G86836	food	source
+14542.JLP1S1.L3	ISS	sink
+10317.000007558	nose	source
+10317.000065979	feces	source
+10317.000031099	skin	source
+10317.X00168442	skin	source
+10317.000005637	skin	source
+1222.B5.5.17.06	Water (saline)	source
+11442.G83411	food	source
+990.KA2U.A.21	Soil (non-saline)	source
+11950.loc1.Gypsum.wet.TP6	building materials	source
+12201.urine.male.A.3.powersoil.L	urine	source
+10317.000010409	nose	source
+12201.urine.female.E.2.zymoMA.L	urine	source
+14542.NOD2D4.L5	ISS	sink
+990.KA3F.B.05	Soil (non-saline)	source
+1288.TBE17Nov07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+11442.G86917	food	source
+1240.2004BCDNA	Water (saline)	source
+11442.G75113	food	source
+10317.000068801	nose	source
+1240.0505B	Water (saline)	source
+10317.000109979	feces	source
+10317.000073321	nose	source
+10317.000068981	nose	source
+11950.loc1.MDF.dry.TP2.RE	building materials	source
+10317.000087217	feces	source
+14542.COL1A4.R2	ISS	sink
+11442.G86925	food	source
+945.P2.A6.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000012848	nose	source
+945.P4.B3.lane2.NoIndex.L002	Water (non-saline)	source
+1240.0102B	Water (saline)	source
+14542.PMM1O1.L3	ISS	sink
+14542.NOD3O5.R4	ISS	sink
+1222.B2.5.13.06	Water (saline)	source
+723.C8.10m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+945.P7.F3.lane2.NoIndex.L002	Water (non-saline)	source
+945.P14.F12.lane3.NoIndex.L003	Water (non-saline)	source
+10317.000004672b	feces	source
+10317.000015116	skin	source
+11442.G72517	food	source
+11950.loc2.Plywood.wet.TP4	building materials	source
+1288.NSBH29May09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+10317.000094694	feces	source
+14542.LAB1D3.R1	ISS	sink
+755.LSSF.GAMMA.D15.02.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000154437	nose	source
+10317.000007727	oral cavity	source
+10317.000066826	nose	source
+11950.loc2.Gypsum.wet.TP3.RE	building materials	source
+14542.PMM1S1.L1	ISS	sink
+14542.NOD2D2.L3	ISS	sink
+10317.000012340	oral cavity	source
+12201.uriF.F.3.homebrew.L	urine	source
+14542.COL1A2.R1	ISS	sink
+14542.NOD3F5.L6	ISS	sink
+12201.uriF.P.1.microbiome20.L	urine	source
+10317.000072639	feces	source
+10317.000036970	feces	source
+10317.000098446	skin	source
+864.OSC.4.2009a.lane2.NoIndex	Soil (non-saline)	source
+12201.urine.female.F.1.powersoil.L	urine	source
+14542.NOD3A2.R3	ISS	sink
+10317.X00174569	oral cavity	source
+12201.urine.male.A.1.nucleomag.L	urine	source
+14542.PMM1O1.L8	ISS	sink
+755.SSFA.L2.D1.19.04.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000003338	oral cavity	source
+10317.000002260	skin	source
+1222.B1.5.8.06	Water (saline)	source
+14542.NOD3F2.R3	ISS	sink
+14542.PMM1O1.L7	ISS	sink
+12201.uriF.D.2.qiagen.L	urine	source
+11442.G75623	food	source
+14542.NOD1P4.L7	ISS	sink
+14542.PMM1D1.L8	ISS	sink
+10317.000043193	oral cavity	source
+11442.G73940	food	source
+14542.NOD1P4.R7	ISS	sink
+10317.000013871	oral cavity	source
+11442.G83234	food	source
+14542.NOD1S2.R7	ISS	sink
+12201.urine.female.E.1.nucleomag.L	urine	source
+11442.G87406	food	source
+861.X52.jul09	Water (saline)	source
+12201.uriF.E.2.magmax.L	urine	source
+14542.NOD3D2.C5	ISS	sink
+10317.000030039	feces	source
+10317.000015580	feces	source
+10317.000098469	nose	source
+14542.LAB1S5.R1	ISS	sink
+10317.000150486	oral cavity	source
+1721.B20T	Soil (non-saline)	source
+14542.NOD3F2.R1	ISS	sink
+945.P1.H5.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000017318	oral cavity	source
+10317.000100472	feces	source
+11442.G74003	food	source
+10317.000051534	skin	source
+11950.loc1.Plywood.dry.TP2.DUP	building materials	source
+1222.B4.5.12.06	Water (saline)	source
+11950.loc2.MFGypsum.dry.TP0.DUP	building materials	source
+755.LSSF.GAMMA.D20.14.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000015561	oral cavity	source
+14542.NOD3A2.L5	ISS	sink
+1883.2010.168.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+14542.NOD1P2.L10	ISS	sink
+14542.PMM1P1.R7	ISS	sink
+1288.TBH10Oct08.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+10317.000050639	oral cavity	source
+10317.000093002	oral cavity	source
+10317.000148424	nose	source
+945.P3.B6.lane2.NoIndex.L002	Water (non-saline)	source
+11950.loc2.MFGypsum.dry.TP1.RE.DUP	building materials	source
+945.P12.H1.lane3.NoIndex.L003	Water (non-saline)	source
+10317.000028148	oral cavity	source
+755.SSFA.L3.D40.07.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.NOD2P2.R1	ISS	sink
+14542.LAB1P4.R1	ISS	sink
+10317.000069877	skin	source
+10317.000049746	nose	source
+1883.2009.19.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+11442.G73467	food	source
+14542.NOD2O2.L6	ISS	sink
+14542.PMM1P1.L2	ISS	sink
+10317.000115019	nose	source
+12201.uriF.E.3.magmax.L	urine	source
+10317.X00170944	oral cavity	source
+1883.2009.167.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+10317.000050036	feces	source
+10317.000012797	nose	source
+1222.B5.5.15.06	Water (saline)	source
+1883.2011.408.Crump.Artic.LTREB.main.lane4.NoIndex	Water (non-saline)	source
+1288.TBE24June08.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+11442.G86919	food	source
+10317.000048935	oral cavity	source
+14542.JPM1O3.R2	ISS	sink
+2080.S63D60.85	Water (saline)	source
+12201.urine.female.F.3.powersoil.L	urine	source
+12201.urine.female.E.1.microbiome.L	urine	source
+10317.000034577	nose	source
+10317.000050385	skin	source
+14542.NOD3F2.L2	ISS	sink
+10317.000049741	skin	source
+10317.000007189	nose	source
+11442.G72819	food	source
+12201.uriF.D.3.pro.L	urine	source
+10317.000092609	oral cavity	source
+14542.LAB1P5.L1	ISS	sink
+10317.000052294	oral cavity	source
+14542.PMM1P1.R3	ISS	sink
+14542.PMM1O1.R2	ISS	sink
+11950.control.Gypsum.dry.TP0.DUP	building materials	source
+990.KA3U.B.22	Soil (non-saline)	source
+2382.MU002.C3.HA.2.681.bulk.9.12.lane7.NoIndex.L007.sequences	Soil (non-saline)	source
+990.KA3U.B.18	Soil (non-saline)	source
+10317.000097157	skin	source
+11950.loc1.MFGypsum.dry.TP5.RE.DUP	building materials	source
+14542.NOD3F4.L1	ISS	sink
+11950.loc2.Plywood.wet.TP5.RE.DUP	building materials	source
+10317.000007579	nose	source
+10317.000012600	nose	source
+11950.control.MFGypsum.dry.TP1.RE.DUP	building materials	source
+10317.000007791	oral cavity	source
+10317.000155304	oral cavity	source
+1240.1910B	Water (saline)	source
+11442.G86754	food	source
+11950.loc1.Plywood.wet.TP4.RE	building materials	source
+11950.loc1.Gypsum.dry.TP2.RE.DUP	building materials	source
+1288.NSBE10July09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+14542.A.L1A1.L1	ISS	sink
+10317.000155922	oral cavity	source
+945.P12.C7.lane5.NoIndex.L005	Water (non-saline)	source
+11950.loc2.Gypsum.dry.TP1.RE	building materials	source
+10317.000012454	skin	source
+10317.000063355	feces	source
+945.P1.C5.lane2.NoIndex.L002	Water (non-saline)	source
+861.X60.dec08	Water (saline)	source
+14542.PMM1S1.L7	ISS	sink
+1288.FBH27July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+755.SSFA.MIX.5.19.04.11.lane3.NoIndex.L003	Soil (non-saline)	source
+12201.urine.female.F.3.nucleomag.L	urine	source
+1240.0109TCDNA	Water (saline)	source
+11442.G74077	food	source
+755.SSFA.L1.D5.10.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000097912	skin	source
+723.C9.10m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+1240.2408T	Water (saline)	source
+10317.000023226	feces	source
+11442.G87484	food	source
+11950.control.MFGypsum.dry.TP5.RE.DUP	building materials	source
+10317.000047171	feces	source
+10317.000155439	oral cavity	source
+10317.000007392	nose	source
+14542.NOD3O5.R1	ISS	sink
+945.P2.E9.lane2.NoIndex.L002	Water (non-saline)	source
+1288.MAE18July08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+1288.TBE21June07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+14542.NOD3A4.L3	ISS	sink
+10317.000002782	feces	source
+14542.NOD3F2.L7	ISS	sink
+10317.X00167647	oral cavity	source
+1222.B2.5.6.06	Water (saline)	source
+14542.NOD1P2.L2	ISS	sink
+14542.COL1F3.L1	ISS	sink
+10317.000001058	feces	source
+945.P11.D7.lane3.NoIndex.L003	Water (non-saline)	source
+14542.NOD3D2.C3	ISS	sink
+12201.uriF.D.2.pro.L	urine	source
+10317.000112190	skin	source
+945.P9.C6.lane3.NoIndex.L003	Water (non-saline)	source
+14542.NOD3A5.R4	ISS	sink
+14542.NOD3F4.L2	ISS	sink
+10317.000071523	oral cavity	source
+14542.LAB1P2.L1	ISS	sink
+14542.PMM1D1.R4	ISS	sink
+945.P11.H1.lane3.NoIndex.L003	Water (non-saline)	source
+755.SSFB.L3.D50.28.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11442.G87315	food	source
+10317.000092732	feces	source
+1288.FBE02July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+14542.NOD3F5.R6	ISS	sink
+14542.NOD3D2.C2	ISS	sink
+1883.2011.436.Crump.Artic.LTREB.main.lane4.NoIndex	Water (non-saline)	source
+12201.urine.female.D.1.nucleomag.L	urine	source
+10317.000049026	skin	source
+2080.S24D85	Water (saline)	source
+10317.000093576	feces	source
+11950.loc2.MFGypsum.dry.TP4.RE	building materials	source
+14542.NOD3A5.L5	ISS	sink
+10317.X00185637	feces	source
+14542.NOD3F5.R1	ISS	sink
+10317.000152306	oral cavity	source
+14542.COL1O4.R1	ISS	sink
+10317.000158036	oral cavity	source
+14542.COL1A3.R1	ISS	sink
+10317.000096848	skin	source
+14542.LAB1S4.R1	ISS	sink
+11950.loc2.MFGypsum.dry.TP0	building materials	source
+1883.2011.532.Crump.Artic.LTREB.main.lane4.NoIndex	Water (saline)	source
+10317.000007470	nose	source
+1222.B4.5.16.06	Water (saline)	source
+14542.NOD3O2.R10	ISS	sink
+11442.G87430	food	source
+10317.000096847	nose	source
+10317.000098438	skin	source
+10317.000012695	nose	source
+1674.McG.F110714Jr3H5	Soil (non-saline)	source
+11950.loc1.MFGypsum.wet.TP1.RE	building materials	source
+12201.uriF.D.2.homebrew.L	urine	source
+10317.000108790	feces	source
+14542.NOD3O2.L14	ISS	sink
+864.CON.addppt.13.2009b.lane2.NoIndex	Soil (non-saline)	source
+12201.uriF.F.1.norgen.L	urine	source
+14542.NOD2O2.L3	ISS	sink
+11442.G73637	food	source
+11950.loc2.MDF.dry.TP0.DUP	building materials	source
+11950.loc1.Gypsum.wet.TP2	building materials	source
+2080.S60D5450.2	Water (saline)	source
+10317.000014173	feces	source
+1288.TBE04Oct05.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+1240.0109B	Water (saline)	source
+10317.000098888	oral cavity	source
+945.P2.E4.lane2.NoIndex.L002	Water (non-saline)	source
+11950.loc1.MFGypsum.dry.TP0	building materials	source
+945.P9.H3.lane3.NoIndex.L003	Water (non-saline)	source
+11950.loc1.MDF.dry.TP0.DUP	building materials	source
+11950.loc1.Gypsum.dry.TP0	building materials	source
+1288.MAH08June05.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+10317.000097155	nose	source
+12201.urine.male.C.2.powersoil.L	urine	source
+723.AcidLow3.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+14542.NOD3O4.R6	ISS	sink
+1883.2011.499.Crump.Artic.LTREB.main.lane4.NoIndex	Water (saline)	source
+10317.000063288	oral cavity	source
+755.SSFB.L3.3.D40.21.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000067073	oral cavity	source
+1288.CBE02Aug07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+11442.G75260	food	source
+10317.000023667	skin	source
+10317.000066850	nose	source
+14542.NOD2P4.L1	ISS	sink
+14542.NOD3O2.L10	ISS	sink
+723.C11.3m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+1222.B3.5.19.06	Water (saline)	source
+12201.urine.female.D.2.powersoil.L	urine	source
+945.P13.G3.lane5.NoIndex.L005	Water (non-saline)	source
+14542.NOD3A5.L6	ISS	sink
+10317.000015208	skin	source
+10317.000069095	skin	source
+10317.000097039	nose	source
+990.KA2U.A.01	Soil (non-saline)	source
+10317.000002445	oral cavity	source
+10317.000096911	nose	source
+14542.COL1O2.R2	ISS	sink
+10317.000098423	skin	source
+10317.000047862	skin	source
+10317.X00161897	oral cavity	source
+11950.control.MFGypsum.wet.TP0	building materials	source
+723.IC1.S1.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+11950.loc2.MFGypsum.dry.TP1.RE	building materials	source
+10317.000036158	feces	source
+11442.G75572	food	source
+945.P5.H1.lane2.NoIndex.L002	Water (non-saline)	source
+14542.NOD3F5.L3	ISS	sink
+10317.000030535	feces	source
+11442.G86978	food	source
+14542.NOD3O4.R5	ISS	sink
+1288.CBH10Sept07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+14542.COL1O2.L1	ISS	sink
+10317.000003551	oral cavity	source
+11950.loc1.MFGypsum.dry.TP4.DUP	building materials	source
+12201.uriF.E.3.zymo.L	urine	source
+864.CON.R.4.2009a.lane2.NoIndex	Soil (non-saline)	source
+1222.B2.5.8.06	Water (saline)	source
+10317.000069089	nose	source
+1288.MAE01May08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+10317.000015677	nose	source
+10317.000050954	skin	source
+12201.urine.male.C.3.nucleomag.L	urine	source
+11442.G73688	food	source
+2080.S30D2085	Water (saline)	source
+10317.000155651	oral cavity	source
+10317.000113724	feces	source
+14542.NOD3F5.L2	ISS	sink
+11442.G73715	food	source
+10317.000015403	skin	source
+10317.000097148	skin	source
+10317.000098429	nose	source
+1288.NSBE08June07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+14542.PMM1D1.R6	ISS	sink
+12201.uriF.S.1.microbiome2.L	urine	source
+14542.NOD3A2.L3	ISS	sink
+10317.000005430	skin	source
+10317.000033585	oral cavity	source
+14542.NOD2P2.L3	ISS	sink
+10317.000068790	oral cavity	source
+723.C11.0m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+10317.000063178	nose	source
+2080.S60D5450	Water (saline)	source
+10317.000063325	skin	source
+10317.000007608	nose	source
+12201.uriF.F.1.pro.L	urine	source
+1288.NSBH17July09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+1717.32H.high.fertilizer	Soil (non-saline)	source
+10317.000015207	skin	source
+10317.000007565	skin	source
+945.P9.D2.lane2.NoIndex.L002	Water (non-saline)	source
+11950.control.Gypsum.wet.TP1.RE	building materials	source
+11442.G86735	food	source
+1288.NSBE02Aug09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+10317.000001352	feces	source
+14542.NOD1P2.R5	ISS	sink
+723.IC1.S3.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+12201.urine.female.F.2.powersoil.L	urine	source
+1240.2610BCDNA	Water (saline)	source
+2080.S45D435	Water (saline)	source
+1674.McG.F110714Jr5R1	Soil (non-saline)	source
+10317.000096865	skin	source
+10317.000069039	skin	source
+14542.NOD3F4.R2	ISS	sink
+10317.000098366	skin	source
+2080.S33D60.85	Water (saline)	source
+1240.0505TCDNA	Water (saline)	source
+723.AcidLow1.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+990.KA1U.B.25	Soil (non-saline)	source
+11950.loc2.MFGypsum.wet.TP1.RE.DUP	building materials	source
+14542.COL1F4.L1	ISS	sink
+10317.000092966	skin	source
+10317.000015140	skin	source
+14542.PMM1S1.R2	ISS	sink
+10317.000096985	skin	source
+755.SSFB.L3.D50.26.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.NOD2D2.R5	ISS	sink
+14542.JPM1O5.L1	ISS	sink
+1883.2010.337.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+10317.000036077	feces	source
+11442.G75756	food	source
+10317.000012456	skin	source
+14542.NOD3D2.R4	ISS	sink
+10317.000007346	nose	source
+10317.000050423	skin	source
+864.4.OTC.addV.noG.noW.3.lane2.NoIndex	Soil (non-saline)	source
+1240.1910TCDNA	Water (saline)	source
+12201.uriF.S.3.microbiome2.L	urine	source
+10317.000054020	oral cavity	source
+11950.loc1.Gypsum.wet.TP2.DUP	building materials	source
+14542.NOD1O4.R9	ISS	sink
+10317.X00174068	oral cavity	source
+755.SSFA.L3.D5.19.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.JLP1F1.R1	ISS	sink
+11950.loc2.Plywood.wet.TP6.RE.DUP	building materials	source
+1883.2009.34.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+10317.000063302	skin	source
+10317.000005088	skin	source
+14542.LAB1O1.L1	ISS	sink
+10317.X00169453	nose	source
+12201.uriF.F.1.standard.L	urine	source
+11950.loc2.MFGypsum.wet.TP1	building materials	source
+10317.000010474	skin	source
+889.26May.4	Water (saline)	source
+14542.NOD3F2.R5	ISS	sink
+11950.loc1.MFGypsum.dry.TP2	building materials	source
+14542.LAB1O6.L2	ISS	sink
+11442.G86937	food	source
+945.P4.F5.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000071556	feces	source
+11442.G75585	food	source
+10317.000015654	nose	source
+14542.NOD1S4.L5	ISS	sink
+11442.G83454	food	source
+12201.uriM.A.3.qiagen.L	urine	source
+10317.000058777	feces	source
+10317.000032702	feces	source
+755.SSFB.L3.D40.19.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+755.LSSF.BETA.D30.02.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+1288.MAE24Sept07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+10317.000012824	nose	source
+12201.urine.female.E.1.powersoil.L	urine	source
+1883.2009.294.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+14542.NOD3D5.R5	ISS	sink
+12201.uriF.P.2.microbiome20.L	urine	source
+723.C11.10m.G3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+864.12.OTC.addV.noG.addW.lane2.NoIndex	Soil (non-saline)	source
+10317.000005899	oral cavity	source
+11442.G73490	food	source
+10317.000154577	oral cavity	source
+1674.McG.P110714Ch3	Soil (non-saline)	source
+1240.2408B	Water (saline)	source
+14542.NOD1D4.R10	ISS	sink
+10317.000007835	oral cavity	source
+14542.NOD3F2.R7	ISS	sink
+10317.000007473	nose	source
+10317.000012620	nose	source
+11442.G74076	food	source
+14542.NOD3F4.R3	ISS	sink
+10317.000069104	skin	source
+14542.NOD2S4.L3	ISS	sink
+1288.WSBH19June07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+10317.000098453	nose	source
+10317.000068137	oral cavity	source
+945.P9.F10.lane3.NoIndex.L003	Water (non-saline)	source
+14542.NOD3A2.L6	ISS	sink
+14542.NOD3O2.L13	ISS	sink
+10317.000155933	nose	source
+10317.000041531	feces	source
+10317.000005289	skin	source
+10317.000069844	oral cavity	source
+10317.000094752	nose	source
+12201.uriF.D.3.microbiome2.L	urine	source
+10317.000053396	feces	source
+10317.000015120	skin	source
+723.IC3.S1.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+10317.000097698	feces	source
+945.P7.F1.lane2.NoIndex.L002	Water (non-saline)	source
+14542.JLP1A1.L3	ISS	sink
+14542.JPM1F1.R2	ISS	sink
+2080.S45D2585	Water (saline)	source
+10317.000069190	oral cavity	source
+1222.B3.5.9.06	Water (saline)	source
+10317.X00229106	feces	source
+1883.2010.341.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+10317.000003703	feces	source
+10317.000157812	oral cavity	source
+10317.000004849	oral cavity	source
+10317.000063440	skin	source
+10317.000050532	skin	source
+2382.SH008.C6.HA.1.726.bulk.9.12.lane7.NoIndex.L007.sequences	Soil (non-saline)	source
+12201.uriF.F.2.standard.L	urine	source
+10317.000063226	nose	source
+10317.000007398	nose	source
+14542.NOD2D2.R3	ISS	sink
+14542.PMM1D1.L5	ISS	sink
+945.P8.C1.lane2.NoIndex.L002	Water (non-saline)	source
+14542.NOD3F4.L4	ISS	sink
+14542.PMM1S1.L6	ISS	sink
+14542.NOD2S4.R1	ISS	sink
+990.KA1F.A.10	Soil (non-saline)	source
+10317.000005766	feces	source
+10317.000002359	feces	source
+11442.G74031	food	source
+14542.NOD3D2.C6	ISS	sink
+1721.R3T	Soil (non-saline)	source
+14542.JPM1A1.R2	ISS	sink
+14542.NOD3A4.R2	ISS	sink
+755.SSFB.L1.D3.14.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11442.G86846	food	source
+10317.000051536	skin	source
+12201.uriF.D.2.microbiome20.L	urine	source
+14542.NOD1P2.R9	ISS	sink
+14542.JPM1F5.R1	ISS	sink
+10317.000007193	nose	source
+12201.uriF.E.2.standard.L	urine	source
+14542.NOD3D4.L4	ISS	sink
+11442.G73455	food	source
+10317.000003223	skin	source
+10317.000007372	skin	source
+14542.NOD3F2.L1	ISS	sink
+12201.uriF.F.2.zymo.L	urine	source
+10317.000063164	skin	source
+10317.000063238	nose	source
+10317.000098424	oral cavity	source
+755.SSFA.L1.3.D20.21.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000068799	skin	source
+14542.COL1F4.R1	ISS	sink
+1288.TBH08June09.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+10317.000048387	skin	source
+14542.LAB1P6.L2	ISS	sink
+11950.loc1.MFGypsum.dry.TP1	building materials	source
+12201.uriF.F.3.magmax.L	urine	source
+14542.NOD2O4.R1	ISS	sink
+10317.000098375	skin	source
+2080.S57D435	Water (saline)	source
+10317.000020443	feces	source
+10317.000154923	oral cavity	source
+10317.000002641	oral cavity	source
+1883.2010.318.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+14542.NOD1O4.L6	ISS	sink
+11442.G75212	food	source
+755.LSSF.GAMMA.D15.16.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+12201.urine.male.B.3.powersoil.L	urine	source
+11442.G87482	food	source
+10317.000096992	skin	source
+945.P9.E4.lane3.NoIndex.L003	Water (non-saline)	source
+864.10.CON.addV.noW.Leg.lane2.NoIndex	Soil (non-saline)	source
+14542.NOD1S4.R1	ISS	sink
+10317.000155205	oral cavity	source
+945.P3.F8.lane2.NoIndex.L002	Water (non-saline)	source
+1288.NSBE11June09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+14542.COL1O3.L2	ISS	sink
+1288.WSBE11June07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+14542.NOD3D5.L6	ISS	sink
+1222.B6.5.17.06	Water (saline)	source
+990.KA3F.E.22	Soil (non-saline)	source
+10317.000012849	nose	source
+14542.JLP1P1.R2	ISS	sink
+10317.X00171969	nose	source
+1288.FBH31May07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+14542.PMM1P1.L5	ISS	sink
+11950.loc2.Plywood.wet.TP6.RE	building materials	source
+11442.G74017	food	source
+14542.A.L1A1.R1	ISS	sink
+10317.000007799	skin	source
+12201.uriF.E.2.zymo.L	urine	source
+12201.urine.female.D.3.powersoil.L	urine	source
+14542.JLP1S1.L1	ISS	sink
+723.IC1.S2.L3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+11950.loc2.MDF.dry.TP0	building materials	source
+1041.M041.10	Water (non-saline)	source
+1674.McG.F110714Jr1R2	Soil (non-saline)	source
+10317.000010324	nose	source
+11950.loc2.Gypsum.dry.TP1.RE.DUP	building materials	source
+990.KA3F.C.21	Soil (non-saline)	source
+1240.1307T	Water (saline)	source
+10317.000092795	feces	source
+14542.PMM1P1.L3	ISS	sink
+10317.000100523	feces	source
+10317.000063476	skin	source
+10317.000107530	skin	source
+11950.loc2.Gypsum.wet.TP3	building materials	source
+1222.B2.5.16.06	Water (saline)	source
+10317.000013266	feces	source
+11950.control.MDF.wet.TP0.DUP	building materials	source
+11950.loc1.Plywood.wet.TP1	building materials	source
+10317.X00174053	feces	source
+10317.000084229	feces	source
+14542.NOD1S4.R4	ISS	sink
+1240.2604BCDNA	Water (saline)	source
+14542.NOD3F2.R4	ISS	sink
+10317.000073760	oral cavity	source
+11950.loc2.MFGypsum.dry.TP6	building materials	source
+10317.000012211	feces	source
+11950.loc1.MDF.dry.TP3	building materials	source
+1222.B3.5.16.06	Water (saline)	source
+10317.000007442	nose	source
+1288.TBH24Sept07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.7.1.sequence	Water (non-saline)	source
+11950.loc1.Gypsum.wet.TP0.DUP	building materials	source
+990.KA3F.C.06	Soil (non-saline)	source
+723.AcidMid3.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+14542.JPM1F6.L2	ISS	sink
+10317.000066650	oral cavity	source
+10317.000147732	skin	source
+10317.000065309	feces	source
+1240.2906TCDNA	Water (saline)	source
+10317.000007240	nose	source
+14542.LAB1O2.R2	ISS	sink
+14542.NOD3F4.L3	ISS	sink
+1883.2009.026.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+2080.S24D4898	Water (saline)	source
+14542.LAB1O4.R2	ISS	sink
+1222.B6.5.7.06	Water (saline)	source
+10317.000007559	nose	source
+1717.KBC8.experimental.plot	Soil (non-saline)	source
+755.LSSF.GAMMA.D5.26.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.NOD1P4.R10	ISS	sink
+10317.000155643	nose	source
+11442.G73723	food	source
+755.LSSF.BETA.D10.08.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.PMM1D1.L3	ISS	sink
+12201.uriF.D.3.qiagen.L	urine	source
+861.C15.dec08	Water (saline)	source
+12201.uriF.D.1.microbiome2.L	urine	source
+14542.LAB1O5.R2	ISS	sink
+14542.NOD3A4.R5	ISS	sink
+1288.SSBH04Aug08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+10317.000058549	nose	source
+755.SSFA.L3.D40.14.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000010467	skin	source
+12201.uriF.S.2.microbiome2.L	urine	source
+2080.S26D75.100	Water (saline)	source
+12201.urine.male.A.1.microbiome.L	urine	source
+10317.000063262	nose	source
+11950.loc1.Gypsum.dry.TP1.RE.DUP	building materials	source
+2080.S60D115	Water (saline)	source
+1883.2011.495.Crump.Artic.LTREB.main.lane4.NoIndex	Water (saline)	source
+864.13.C.addH.noV.2010a.lane2.NoIndex	Soil (non-saline)	source
+10317.000028916	skin	source
+1288.MAH08Aug07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+1289.KH60	Soil (non-saline)	source
+1024.RU006.C181.RH.1.576.bulk.4.12.G1.L00	Soil (non-saline)	source
+14542.COL1O3.R1	ISS	sink
+10317.000065584	oral cavity	source
+10317.000096919	nose	source
+1240.2906T	Water (saline)	source
+1288.FBH31July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+10317.X00180416	feces	source
+945.P4.A6.lane2.NoIndex.L002	Water (non-saline)	source
+14542.NOD1O4.L7	ISS	sink
+11442.G75616	food	source
+1883.2005.175.Crump.Artic.LTREB.main.lane4.NoIndex	Water (non-saline)	source
+11950.loc1.MFGypsum.wet.TP3.RE	building materials	source
+1711.KAJ9.2	Soil (non-saline)	source
+11950.control.MDF.wet.TP0	building materials	source
+11442.G72735	food	source
+12201.uriF.E.2.homebrew.L	urine	source
+14542.JPM1O6.L1	ISS	sink
+1288.NSBH12June09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+10317.000038153	feces	source
+14542.NOD3D2.C1	ISS	sink
+14542.NOD2D2.R4	ISS	sink
+12201.uriF.D.1.standard.L	urine	source
+14542.NOD3D2.C4	ISS	sink
+14542.NOD3A4.R4	ISS	sink
+14542.JPM1O4.L1	ISS	sink
+14542.JPM1O1.R2	ISS	sink
+14542.PMM1S1.R1	ISS	sink
+10317.000154383	oral cavity	source
+10317.000050935	oral cavity	source
+990.KA3F.C.09	Soil (non-saline)	source
+10317.000098485	nose	source
+14542.JLP1A1.L2	ISS	sink
+10317.000004060	oral cavity	source
+11950.loc2.MFGypsum.wet.TP5.RE	building materials	source
+10317.000093414	feces	source
+990.KA3F.E.09	Soil (non-saline)	source
+14542.NOD2P4.L2	ISS	sink
+14542.NOD3F5.L5	ISS	sink
+11950.loc1.Gypsum.wet.TP1.RE.DUP	building materials	source
+10317.X00169151	oral cavity	source
+14542.NOD3D4.R5	ISS	sink
+10317.000096887	nose	source
+12201.uriF.S.1.microbiome20.L	urine	source
+10317.000027350	oral cavity	source
+14542.NOD3A5.L3	ISS	sink
+14542.NOD1P4.L10	ISS	sink
+12201.urine.female.E.3.zymoMA.L	urine	source
+10317.000002178	oral cavity	source
+990.KA3F.D.16	Soil (non-saline)	source
+1240.0803B	Water (saline)	source
+12201.uriF.D.1.microbiome20.L	urine	source
+10317.000096935	nose	source
+10317.000049730	feces	source
+10317.X00171376	oral cavity	source
+10317.000063500	skin	source
+10317.000155250	skin	source
+10317.000012444	nose	source
+1240.2209BCDNA	Water (saline)	source
+14542.NOD3A2.R6	ISS	sink
+1715.McG.NG1	Soil (non-saline)	source
+14542.NOD3D4.R3	ISS	sink
+11950.loc2.Gypsum.wet.TP2.DUP	building materials	source
+990.KA1F.D.08	Soil (non-saline)	source
+14542.NOD3D2.L4	ISS	sink
+10317.000015700	skin	source
+11950.loc2.MDF.dry.TP1.RE.DUP	building materials	source
+10317.000155660	oral cavity	source
+755.LSSF.GAMMA.D30.09.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000006880	oral cavity	source
+10317.000007570	nose	source
+14542.LAB1O6.R2	ISS	sink
+1222.B2.5.10.06	Water (saline)	source
+14542.PMM1P1.L4	ISS	sink
+10317.X00175308	oral cavity	source
+755.MP.Mock.mix.1.lane3.NoIndex.L003	Soil (non-saline)	source
+12201.urine.female.E.3.microbiome.L	urine	source
+1288.MAH22June05.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+10317.000105613	skin	source
+14542.PMM1P1.R4	ISS	sink
+10317.000007395	nose	source
+14542.NOD1O4.R2	ISS	sink
+10317.X00170968	oral cavity	source
+12201.urine.female.D.2.nucleomag.L	urine	source
+11950.loc2.Plywood.wet.TP3	building materials	source
+945.P7.B9.lane2.NoIndex.L002	Water (non-saline)	source
+12201.urine.female.D.3.zymoMA.L	urine	source
+723.C7.10m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+11442.G90223	food	source
+14542.JLP1A1.R4	ISS	sink
+10317.000150492	oral cavity	source
+14542.JPM1O4.L2	ISS	sink
+1288.NSBH10July09.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+10317.000154707	nose	source
+14542.NOD3A4.R1	ISS	sink
+10317.000040317	feces	source
+11950.loc1.Plywood.dry.TP1	building materials	source
+945.P10.C5.lane3.NoIndex.L003	Water (non-saline)	source
+11442.G75575	food	source
+14542.NOD3F5.R7	ISS	sink
+11950.loc1.MDF.dry.TP2.RE.DUP	building materials	source
+14542.PMM1S1.L5	ISS	sink
+10317.000007615	skin	source
+1288.NSBH25Sept07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+11442.G72527	food	source
+10317.000005555	skin	source
+1222.B4.5.7.06	Water (saline)	source
+11442.G86829	food	source
+11442.G87459	food	source
+12201.uriF.D.1.homebrew.L	urine	source
+14542.NOD1O4.L2	ISS	sink
+1883.2011.061.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+14542.NOD2P2.L1	ISS	sink
+11442.G86876	food	source
+14542.NOD1S2.R3	ISS	sink
+1240.1801TCDNA	Water (saline)	source
+11950.control.Gypsum.wet.TP6.RE.DUP	building materials	source
+11950.control.Gypsum.wet.TP1.RE.DUP	building materials	source
+10317.X00169883	oral cavity	source
+10317.000063450	skin	source
+14542.NOD3A5.L1	ISS	sink
+11950.loc2.Plywood.wet.TP5	building materials	source
+14542.LAB1S1.R1	ISS	sink
+10317.000007265	nose	source
+14542.LAB1O2.L1	ISS	sink
+11442.G72793	food	source
+14542.JLP1F1.L3	ISS	sink
+14542.PMM1P1.R6	ISS	sink
+10317.000068500	feces	source
+10317.000068653	oral cavity	source
+10317.000003535	skin	source
+11442.G75587	food	source
+10317.000009650	skin	source
+10317.000113619	feces	source
+10317.000018050	feces	source
+14542.NOD2O2.R4	ISS	sink
+10317.000013882	oral cavity	source
+10317.000051124	feces	source
+11950.loc1.MFGypsum.dry.TP4.RE.DUP	building materials	source
+10317.000005071	skin	source
+12201.uriF.P.3.microbiome2.L	urine	source
+10317.000152340	oral cavity	source
+14542.PMM1P1.L1	ISS	sink
+2382.DPOO1.C1.HA.5.646.bulk.9.12.lane7.NoIndex.L007.sequences	Soil (non-saline)	source
+10317.000007315	nose	source
+10317.000016293	feces	source
+10317.000068695	feces	source
+14542.NOD3D2.R1	ISS	sink
+14542.NOD1O4.L3	ISS	sink
+1240.2209T	Water (saline)	source
+10317.000015710	nose	source
+10317.000114852	feces	source
+10317.000154890	skin	source
+10317.000012473	oral cavity	source
+12201.uriF.S.2.microbiome20.L	urine	source
+14542.NOD2S4.R6	ISS	sink
+10317.000098947	feces	source
+1288.WSBE07Aug07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+1721.B9T	Soil (non-saline)	source
+10317.000115678	feces	source
+12201.uriF.F.2.pro.L	urine	source
+10317.000007348	oral cavity	source
+12201.uriF.D.2.standard.L	urine	source
+14542.NOD3F5.R4	ISS	sink
+14542.PMM1O1.R3	ISS	sink
+14542.LAB1S2.L2	ISS	sink
+12201.uriF.P.3.microbiome20.L	urine	source
+14542.NOD1P4.L6	ISS	sink
+10317.000097007	nose	source
+1288.TBH27July05.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+10317.000016174	feces	source
+12201.uriF.P.1.microbiome2.L	urine	source
+11950.control.MFGypsum.dry.TP0.DUP	building materials	source
+990.KA3U.C.06	Soil (non-saline)	source
+10317.000020406	skin	source
+11442.G87414	food	source
+14542.NOD3O2.L9	ISS	sink
+10317.000007507	nose	source
+14542.LAB1S3.L1	ISS	sink
+14542.COL1A2.R2	ISS	sink
+11950.loc1.MDF.dry.TP0	building materials	source
+14542.NOD3A5.R3	ISS	sink
+10317.000007769	oral cavity	source
+14542.LAB1D3.L1	ISS	sink
+12201.uriF.D.2.microbiome2.L	urine	source
+11950.loc2.MFGypsum.wet.TP4	building materials	source
+10317.000068854	skin	source
+11442.G75087	food	source
+1288.WSBE19July07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+14542.NOD1O4.R1	ISS	sink
+10317.000106860	feces	source
+14542.NOD1S2.L7	ISS	sink
+10317.000007218	nose	source
+14542.NOD3O2.R12	ISS	sink
+1240.0103TCDNA	Water (saline)	source
+12201.uriF.E.2.pro.L	urine	source
+14542.NOD1S2.R2	ISS	sink
+755.SSFB.L3.D5.24.08.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.NOD2P2.L2	ISS	sink
+14542.COL1.F3.R2	ISS	sink
+14542.NOD3A2.R1	ISS	sink
+11442.G87487	food	source
+10317.000012496	nose	source
+11950.loc1.MFGypsum.wet.TP6.DUP	building materials	source
+1721.S18T	Soil (non-saline)	source
+14542.NOD3A2.R5	ISS	sink
+14542.PMM1O1.R8	ISS	sink
+11950.loc2.Plywood.dry.TP2.RE.DUP	building materials	source
+12201.urine.female.D.1.microbiome.L	urine	source
+14542.JPM1O4.R2	ISS	sink
+10317.000010352	nose	source
+10317.000098929	feces	source
+10317.000006944	feces	source
+12201.uriF.E.3.norgen.L	urine	source
+755.LSSF.DELTA.D5.22.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+945.P8.F12.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000013881	oral cavity	source
+10317.000155189	nose	source
+14542.NOD2S2.R6	ISS	sink
+990.KA1F.B.18	Soil (non-saline)	source
+11442.G90210	food	source
+10317.000015308	skin	source
+11442.G83367	food	source
+12201.urine.male.A.3.nucleomag.L	urine	source
+755.LSSF.BETA.D1.09.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+990.KA3U.A.11	Soil (non-saline)	source
+755.SSFB.L3.3.D5.21.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11442.G72799	food	source
+12201.uriF.D.3.microbiome20.L	urine	source
+755.LSSF.BETA.D1.08.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+1288.NSBE03July07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+990.KA3U.B.02	Soil (non-saline)	source
+11442.G87497	food	source
+11950.loc2.MFGypsum.wet.TP6.DUP	building materials	source
+11950.loc2.MFGypsum.dry.TP5.RE	building materials	source
+11950.loc1.Gypsum.wet.TP4	building materials	source
+2080.S30D215	Water (saline)	source
+10317.000032873	feces	source
+10317.000097158	oral cavity	source
+12201.uriF.F.2.homebrew.L	urine	source
+1716.McG.PAPrS15	Soil (non-saline)	source
+10317.000038213	feces	source
+10317.000066918	skin	source
+864.6.OTC.addV.noG.noW.lane2.NoIndex	Soil (non-saline)	source
+864.6.C.addG.noV.2010a.lane2.NoIndex	Soil (non-saline)	source
+1288.HKH16July07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+1883.2011.218.Crump.Artic.LTREB.main.lane4.NoIndex	Water (non-saline)	source
+14542.NOD3O2.L12	ISS	sink
+14542.NOD1P2.R2	ISS	sink
+10317.000154943	nose	source
+10317.000068945	nose	source
+10317.000004237	skin	source
+10317.X00164793	oral cavity	source
+10317.000012597	nose	source
+10317.000041071	oral cavity	source
+10317.000047853	skin	source
+1240.1210T	Water (saline)	source
+10317.000015649	nose	source
+1883.2011.157.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+755.SSFA.L2.D1.06.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000048249	oral cavity	source
+10317.000014897	feces	source
+10317.000010315	nose	source
+10317.000007762	skin	source
+1240.0709BCDNA	Water (saline)	source
+864.5.OTC.addV.addG.noW.lane2.NoIndex	Soil (non-saline)	source
+990.KA2F.A.13	Soil (non-saline)	source
+10317.000041668	oral cavity	source
+12201.urine.female.E.2.nucleomag.L	urine	source
+12201.urine.male.B.1.nucleomag.L	urine	source
+723.C11.5m.G3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+11950.control.MFGypsum.wet.TP1	building materials	source
+10317.000021246	oral cavity	source
+11950.loc2.Plywood.dry.TP1	building materials	source
+14542.PMM1O1.L4	ISS	sink
+10317.000098341	nose	source
+11950.control.Plywood.dry.TP1.RE.DUP	building materials	source
+10317.000012436	nose	source
+14542.NOD3O4.L4	ISS	sink
+14542.PMM1D1.L1	ISS	sink
+10317.000005065	skin	source
+2080.S16D90	Water (saline)	source
+14542.PMM1D1.L2	ISS	sink
+1288.NSB10jul08H.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+1240.1101BCDNA	Water (saline)	source
+11950.loc1.Gypsum.wet.TP3.RE.DUP	building materials	source
+11442.G73464	food	source
+14542.PMM1P1.R1	ISS	sink
+11950.loc1.Gypsum.dry.TP3	building materials	source
+10317.X00214325	feces	source
+10317.000050577	oral cavity	source
+10317.000097958	feces	source
+14542.A.L1O1.R1	ISS	sink
+14542.NOD3O5.L1	ISS	sink
+11442.G73648	food	source
+1240.2604T	Water (saline)	source
+755.SSFB.L3.D3.31.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000068789	nose	source
+11442.G73717	food	source
+14542.NOD1O4.R10	ISS	sink
+10317.X00173419	feces	source
+10317.X00164172	oral cavity	source
+1288.SSBH10July08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+12201.uriF.E.1.zymo.L	urine	source
+2080.S48D85	Water (saline)	source
+14542.NOD1S4.L4	ISS	sink
+755.SSFA.L1.D1.21.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000155295	oral cavity	source
+990.KA1F.D.06	Soil (non-saline)	source
+755.SSFB.L1.D50.17.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000044368	feces	source
+945.P5.B2.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000110341	feces	source
+10317.000012819	skin	source
+14542.NOD3A2.R7	ISS	sink
+10317.000108706	feces	source
+1288.FBE02Oct07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+1711.KAJ7.1	Soil (non-saline)	source
+10317.000069019	oral cavity	source
+990.KA2U.C.12	Soil (non-saline)	source
+10317.000147489	oral cavity	source
+945.P5.C4.lane2.NoIndex.L002	Water (non-saline)	source
+723.C7.0m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+10317.000116377	feces	source
+12201.uriF.F.3.standard.L	urine	source
+12201.uriF.F.2.norgen.L	urine	source
+10317.000063332	skin	source
+10317.X00161690	feces	source
+14542.NOD3D4.R4	ISS	sink
+14542.JLP1A1.L1	ISS	sink
+11950.loc2.Plywood.wet.TP6	building materials	source
+990.KA2U.C.09	Soil (non-saline)	source
+945.P9.H8.lane3.NoIndex.L003	Water (non-saline)	source
+11442.G83436	food	source
+10317.000066862	nose	source
+12201.uriF.F.3.pro.L	urine	source
+11950.loc2.Gypsum.wet.TP4	building materials	source
+1288.FBE11June07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+14542.NOD2P4.R3	ISS	sink
+945.P12.F8.lane5.NoIndex.L005	Water (non-saline)	source
+11950.loc1.MFGypsum.wet.TP3	building materials	source
+11442.G75074	food	source
+10317.000021191	feces	source
+14542.NOD1P4.R5	ISS	sink
+11950.loc2.MFGypsum.wet.TP3.RE.DUP	building materials	source
+1713.McG.L1B210	Soil (non-saline)	source
+14542.NOD2O2.L2	ISS	sink
+10317.000067226	oral cavity	source
+861.X83.dec08	Water (saline)	source
+14542.NOD1O4.R8	ISS	sink
+11442.G86890	food	source
+14542.NOD1S2.R4	ISS	sink
+1288.SSB08jun09H.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+10317.000096815	nose	source
+10317.000010414	nose	source
+10317.000046211	oral cavity	source
+14542.COL1D2.R2	ISS	sink
+14542.NOD3O2.R11	ISS	sink
+14542.NOD2D2.L6	ISS	sink
+10317.000007412	nose	source
+10317.000050463	skin	source
+11442.G73706	food	source
+14542.NOD1O4.R3	ISS	sink
+11442.G75590	food	source
+10317.000152765	oral cavity	source
+11442.G73472	food	source
+11950.control.MFGypsum.wet.TP4.DUP	building materials	source
+1288.MAE29July08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+10317.000109137	feces	source
+11950.loc1.Gypsum.wet.TP5	building materials	source
+14542.NOD2O4.R5	ISS	sink
+14542.NOD2S4.R4	ISS	sink
+14542.NOD3A2.R2	ISS	sink
+12201.urine.female.F.2.microbiome.L	urine	source
+14542.NOD3A4.L1	ISS	sink
+10317.000096839	nose	source
+14542.NOD1P4.R8	ISS	sink
+10317.000107967	feces	source
+990.KA1U.A.08	Soil (non-saline)	source
+10317.000050481	skin	source
+14542.NOD3D2.L2	ISS	sink
+990.KA3U.A.10	Soil (non-saline)	source
+12201.urine.female.F.1.nucleomag.L	urine	source
+1289.KH18	Soil (non-saline)	source
+10317.000030521	oral cavity	source
+12201.urine.male.A.2.microbiome.L	urine	source
+14542.PMM1S1.L2	ISS	sink
+1240.1409T	Water (saline)	source
+11950.loc1.MFGypsum.wet.TP4	building materials	source
+14542.PMM1S1.L4	ISS	sink
+10317.X00167288	feces	source
+10317.X00192169	oral cavity	source
+14542.NOD3O5.L5	ISS	sink
+2080.S16D765	Water (saline)	source
+14542.JLP1F1.R4	ISS	sink
+10317.000067879	feces	source
+11442.G83232	food	source
+11950.loc1.MDF.wet.TP0.DUP	building materials	source
+11442.G86939	food	source
+14542.NOD1P2.L6	ISS	sink
+1240.1503BCDNA	Water (saline)	source
+755.SSFB.L1.D5.31.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000002372	feces	source
+10317.000073626	oral cavity	source
+10317.000049807	skin	source
+10317.000072239	feces	source
+14542.NOD1S4.L9	ISS	sink
+11950.loc1.Gypsum.dry.TP2.RE	building materials	source
+10317.000004932	nose	source
+14542.JPM1F3.L1	ISS	sink
+723.C11.0m.G3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+14542.LAB1O5.R1	ISS	sink
+14542.NOD3A2.L2	ISS	sink
+14542.NOD1S4.R5	ISS	sink
+11950.control.Gypsum.dry.TP1.RE	building materials	source
+12201.urine.male.B.1.powersoil.L	urine	source
+11442.G73482	food	source
+1240.0803TCDNA	Water (saline)	source
+11442.G75689	food	source
+12201.urine.male.B.2.nucleomag.L	urine	source
+11442.G86980	food	source
+14542.NOD1D4.L1	ISS	sink
+10317.000101411	feces	source
+662.M34	Water (saline)	source
+945.P2.D5.lane2.NoIndex.L002	Water (non-saline)	source
+11950.loc2.Gypsum.dry.TP0	building materials	source
+10317.000069858	oral cavity	source
+10317.000030346	feces	source
+10317.000069065	nose	source
+990.KA2U.B.10	Soil (non-saline)	source
+14542.NOD1O4.R6	ISS	sink
+14542.NOD3D5.L2	ISS	sink
+10317.000147881	oral cavity	source
+14542.NOD3O4.R1	ISS	sink
+14542.NOD2P2.R3	ISS	sink
+11442.G75120	food	source
+14542.PMM1D1.L4	ISS	sink
+990.KA3U.D.08	Soil (non-saline)	source
+1288.SSBH07July08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+10317.X00180450	feces	source
+945.P4.D10.lane2.NoIndex.L002	Water (non-saline)	source
+1240.2601B	Water (saline)	source
+1240.2610B	Water (saline)	source
+1288.CBE08June09.McMahon.Pool.4.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.4.1.sequence	Water (non-saline)	source
+14542.LAB1O6.L1	ISS	sink
+14542.PMM1P1.R2	ISS	sink
+12201.uriM.B.3.pro.L	urine	source
+755.LSSF.ETA.D45.22.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.NOD2O4.R6	ISS	sink
+10317.000060268	oral cavity	source
+1240.1305T	Water (saline)	source
+10317.000047884	oral cavity	source
+10317.000050398	skin	source
+10317.000002824A	oral cavity	source
+10317.X00167703	oral cavity	source
+1240.1409BCDNA	Water (saline)	source
+10317.X00173619	oral cavity	source
+1288.CB10Aug05.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+12201.urine.male.C.1.powersoil.L	urine	source
+10317.000049296	oral cavity	source
+10317.000073402	skin	source
+10317.000072032	feces	source
+10317.000097163	nose	source
+2080.S79D97	Water (saline)	source
+14542.NOD3D5.L5	ISS	sink
+11442.G83309	food	source
+10317.000015695	nose	source
+12201.uriF.D.1.qiagen.L	urine	source
+10317.000063232	skin	source
+11442.G83458	food	source
+945.P11.H8.lane3.NoIndex.L003	Water (non-saline)	source
+12201.urine.male.B.2.powersoil.L	urine	source
+11950.loc1.Plywood.wet.TP6.RE.DUP	building materials	source
+14542.NOD3O5.R6	ISS	sink
+11442.G74025	food	source
+11442.G87601	food	source
+10317.X00214982	feces	source
+14542.PMM1S1.L3	ISS	sink
+14542.NOD3F4.R4	ISS	sink
+11442.G74015	food	source
+10317.000038188	oral cavity	source
+1288.MAH05Oct08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+11442.G72480	food	source
+10317.000076723	oral cavity	source
+14542.PMM1S1.R3	ISS	sink
+11442.G87412	food	source
+14542.NOD1S2.L3	ISS	sink
+10317.000066848	skin	source
+10317.000015139	skin	source
+1288.SSBH30Sept07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+14542.COL1F1.R2	ISS	sink
+14542.LAB1D3.L2	ISS	sink
+12201.urine.female.D.3.microbiome.L	urine	source
+10317.000058846	feces	source
+1288.NSBH13July07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.2.1.sequence	Water (non-saline)	source
+10317.000063250	nose	source
+10317.X00163589	feces	source
+11950.control.Gypsum.dry.TP3.RE.DUP	building materials	source
+10317.000105717	skin	source
+11950.loc2.Plywood.wet.TP4.DUP	building materials	source
+10317.000052445	feces	source
+11442.G86761	food	source
+945.P10.D3.lane3.NoIndex.L003	Water (non-saline)	source
+14542.NOD2O2.L5	ISS	sink
+11950.loc1.Plywood.wet.TP5.RE	building materials	source
+11950.loc2.MFGypsum.dry.TP6.DUP	building materials	source
+12201.uriF.P.3.qiagen.L	urine	source
+10317.000012518	skin	source
+11950.control.Plywood.wet.TP5.RE.DUP	building materials	source
+11442.G86979	food	source
+10317.000010439	nose	source
+14542.NOD1O4.R4	ISS	sink
+14542.NOD3A2.L4	ISS	sink
+10317.000007274	nose	source
+10317.000149229	nose	source
+10317.000007796	skin	source
+14542.NOD1O4.L9	ISS	sink
+11950.loc2.Plywood.wet.TP4.RE.DUP	building materials	source
+12201.uriF.P.2.microbiome2.L	urine	source
+10317.000007076	oral cavity	source
+11442.G72803	food	source
+10317.000066548	feces	source
+11442.G75127	food	source
+10317.000068765	nose	source
+12201.uriF.E.1.homebrew.L	urine	source
+14542.PMM1D1.L6	ISS	sink
+10317.000155042	nose	source
+14542.NOD1O4.R5	ISS	sink
+11442.G86806	food	source
+11442.G75078	food	source
+990.KA2U.D.07	Soil (non-saline)	source
+14542.LAB1S1.L1	ISS	sink
+10317.000087088	feces	source
+10317.000012821	nose	source
+1240.0709TCDNA	Water (saline)	source
+1222.B6.5.9.06	Water (saline)	source
+11442.G87558	food	source
+1240.0803BCDNA	Water (saline)	source
+2080.S24D2085	Water (saline)	source
+10317.000010403	skin	source
+10317.000029335	feces	source
+14542.NOD3D5.L1	ISS	sink
+14542.NOD3F5.L7	ISS	sink
+14542.NOD1S4.R9	ISS	sink
+12201.urine.female.D.2.microbiome.L	urine	source
+1715.McG.NI1	Soil (non-saline)	source
+12201.urine.female.F.3.zymoMA.L	urine	source
+14542.NOD3O5.R2	ISS	sink
+14542.NOD2S4.L5	ISS	sink
+10317.000012525	skin	source
+14542.COL1F3.L2	ISS	sink
+1240.2004B	Water (saline)	source
+12201.uriF.E.1.pro.L	urine	source
+12201.urine.male.C.2.nucleomag.L	urine	source
+11442.G83255	food	source
+945.P10.F1.lane3.NoIndex.L003	Water (non-saline)	source
+10317.X00161728	oral cavity	source
+14542.NOD3D2.L1	ISS	sink
+14542.COL1A4.R1	ISS	sink
+1288.NSB04oct08E.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+11950.control.Gypsum.dry.TP1	building materials	source
+14542.NOD3O2.R8	ISS	sink
+2080.S48D835	Water (saline)	source
+11950.control.MFGypsum.wet.TP2.RE	building materials	source
+10317.X00173771	feces	source
+10317.000047775	feces	source
+10317.000007223	nose	source
+11950.loc2.MDF.dry.TP3.RE	building materials	source
+10317.000007460	oral cavity	source
+14542.NOD2P4.L6	ISS	sink
+1240.1210B	Water (saline)	source
+14542.COL1O4.L1	ISS	sink
+10317.000010305	feces	source
+12201.uriF.F.1.magmax.L	urine	source
+10317.000051563	feces	source
+10317.000046272	feces	source
+12201.uriF.E.3.standard.L	urine	source
+14542.JLP1P1.L3	ISS	sink
+10317.000043102	skin	source
+11442.G73656	food	source
+14542.NOD3O2.R14	ISS	sink
+11950.loc2.MDF.dry.TP1.RE	building materials	source
+10317.000097482	oral cavity	source
+10317.000146445	oral cavity	source
+14542.NOD1O4.L1	ISS	sink
+1240.2112TCDNA	Water (saline)	source
+12201.uriF.E.1.magmax.L	urine	source
+755.SSFB.L3.D20.10.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11950.loc1.MFGypsum.wet.TP3.RE.DUP	building materials	source
+1222.B5.5.8.06	Water (saline)	source
+11950.control.Gypsum.wet.TP2.DUP	building materials	source
+11442.G86778	food	source
+10317.000014464	skin	source
+14542.JLP1A1.R1	ISS	sink
+11442.G73958	food	source
+1883.2011.048.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+10317.000048936	nose	source
+12201.urine.male.C.1.microbiome.L	urine	source
+11442.G72461	food	source
+723.C11.3m.G3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+14542.JPM1O2.L2	ISS	sink
+11950.loc1.MFGypsum.dry.TP6.RE.DUP	building materials	source
+1288.MAH09June08.McMahon.Pool.3.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.3.1.sequence	Water (non-saline)	source
+10317.000015778	nose	source
+990.KA3F.A.15	Soil (non-saline)	source
+12201.uriF.E.3.homebrew.L	urine	source
+10317.000007600	oral cavity	source
+723.C6.5m.L3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+14542.NOD2O2.R1	ISS	sink
+2080.S63D2585	Water (saline)	source
+990.KA1F.E.16	Soil (non-saline)	source
+10317.000033184	feces	source
+723.C7.3m.G3.Catlin1.16Spool.110602.HWI.EAS137R.0375.s.3.1.sequence	Water (saline)	source
+10317.000012703	nose	source
+10317.000063468	oral cavity	source
+10317.000010427	nose	source
+723.AcidLow2.L3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+10317.000070781	feces	source
+10317.000096921	skin	source
+11950.loc1.MDF.dry.TP2	building materials	source
+1883.2009.01.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+12201.urine.female.E.2.powersoil.L	urine	source
+10317.000096903	nose	source
+1883.2011.485.Crump.Artic.LTREB.main.lane4.NoIndex	Water (saline)	source
+1883.2011.055.Crump.Artic.LTREB.main.lane3.NoIndex	Water (non-saline)	source
+10317.000012521	nose	source
+10317.000110207	feces	source
+10317.000096975	nose	source
+14542.PMM1S1.R5	ISS	sink
+14542.COL1F3.R1	ISS	sink
+1721.R30M	Soil (non-saline)	source
+10317.000068698	feces	source
+1289.KH65	Soil (non-saline)	source
+11442.G73450	food	source
+755.LSSF.BETA.D10.30.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+1222.B1.5.12.06	Water (saline)	source
+14542.PMM1O1.L1	ISS	sink
+11442.G73639	food	source
+2080.S57D3700	Water (saline)	source
+2080.S39D60.85	Water (saline)	source
+14542.NOD1P4.R6	ISS	sink
+11442.G74098	food	source
+14542.JPM1D2.L2	ISS	sink
+10317.000003819	oral cavity	source
+1222.B5.5.6.06	Water (saline)	source
+11442.G87332	food	source
+1240.2704BCDNA	Water (saline)	source
+945.P4.F12.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000001533	feces	source
+10317.000010402	nose	source
+10317.000074185	oral cavity	source
+14542.NOD1D4.R7	ISS	sink
+755.LSSF.ALPHA.D10.09.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+2080.S79D240	Water (saline)	source
+14542.JPM1A5.L1	ISS	sink
+1222.B3.5.13.06	Water (saline)	source
+10317.000042920	feces	source
+10317.000007522	nose	source
+14542.LAB1O3.L2	ISS	sink
+10317.000068738	feces	source
+10317.000015301	skin	source
+12201.uriF.F.3.zymo.L	urine	source
+14542.NOD1P4.R4	ISS	sink
+10317.000065481	oral cavity	source
+12201.uriF.D.3.homebrew.L	urine	source
+10317.000074287	feces	source
+12201.uriF.S.2.qiagen.L	urine	source
+14542.NOD3D2.R2	ISS	sink
+11442.G73435	food	source
+10317.000005219	skin	source
+1716.McG.PAPrS19	Soil (non-saline)	source
+10317.000022189	skin	source
+11442.G83397	food	source
+14542.NOD3O2.R9	ISS	sink
+10317.000002864	oral cavity	source
+10317.000059188	feces	source
+10317.000096879	nose	source
+10317.000112808	feces	source
+12201.urine.female.D.3.nucleomag.L	urine	source
+14542.NOD3F2.L5	ISS	sink
+10317.000007407	nose	source
+12201.uriF.F.2.magmax.L	urine	source
+10317.000015768	nose	source
+861.U80.jul09	Water (saline)	source
+11950.loc2.Plywood.dry.TP3	building materials	source
+14542.NOD3D4.L6	ISS	sink
+10317.000012706	nose	source
+14542.NOD3O5.R5	ISS	sink
+10317.000058317	feces	source
+990.KA2F.D.04	Soil (non-saline)	source
+2080.S39D5329	Water (saline)	source
+12201.uriF.F.3.norgen.L	urine	source
+14542.JPM1O3.L2	ISS	sink
+945.P10.H9.lane3.NoIndex.L003	Water (non-saline)	source
+14542.LAB1S2.R2	ISS	sink
+11950.control.Gypsum.wet.TP0.DUP	building materials	source
+10317.000084423	feces	source
+10317.000020534	skin	source
+11950.loc2.MFGypsum.dry.TP4	building materials	source
+10317.000012948	feces	source
+945.P7.E9.lane2.NoIndex.L002	Water (non-saline)	source
+10317.000047052	feces	source
+1721.B9M	Soil (non-saline)	source
+11442.G87419	food	source
+755.LSSF.GAMMA.D45.14.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000042609	oral cavity	source
+14542.JPM1F5.L1	ISS	sink
+14542.JLP1S1.R3	ISS	sink
+755.SSFB.L3.D10.14.06.11.lane1.NoIndex.L001	Soil (non-saline)	source
+10317.000049122	oral cavity	source
+11442.G75631	food	source
+1288.CBE06Aug07.McMahon.Pool.1.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.1.1.sequence	Water (non-saline)	source
+14542.NOD2O4.R2	ISS	sink
+990.KA2F.D.12	Soil (non-saline)	source
+10317.000098477	nose	source
+14542.NOD2S4.L4	ISS	sink
+10317.000063156	oral cavity	source
+11442.G86887	food	source
+14542.NOD3D4.L1	ISS	sink
+10317.000007751	oral cavity	source
+11442.G83247	food	source
+945.P10.B4.lane3.NoIndex.L003	Water (non-saline)	source
+14542.PMM1D1.R8	ISS	sink
+10317.000014647	oral cavity	source
+10317.000012746	nose	source
+755.SSFB.L1.D20.26.07.11.lane1.NoIndex.L001	Soil (non-saline)	source
+14542.PMM1O1.R7	ISS	sink
+864.10.CON.addV.noW.Pot.lane2.NoIndex	Soil (non-saline)	source
+10317.000010413	skin	source
+990.KA1U.A.12	Soil (non-saline)	source
+10317.000010434	nose	source
+12201.uriF.S.3.microbiome20.L	urine	source
+10317.000015739	nose	source
+10317.000047381	feces	source
+10317.000069794	feces	source
+11442.G86874	food	source
+10317.000015694	nose	source
+10317.000015652	skin	source
+10317.000028178	feces	source
+2382.SH007.C6.RH.1.501.bulk.4.12.lane7.NoIndex.L007.sequences	Soil (non-saline)	source
+10317.000012516	nose	source
+1883.2011.291.Crump.Artic.LTREB.main.lane4.NoIndex	Soil (non-saline)	source
+1288.HKH09July07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+1240.1512B	Water (saline)	source
+14542.JPM1A6.L2	ISS	sink
+14542.NOD3O5.L3	ISS	sink
+14542.PMM1S1.L8	ISS	sink
+11442.G83413	food	source
+14542.NOD1D4.L6	ISS	sink
+14542.NOD3A4.L5	ISS	sink
+14542.NOD3F2.L3	ISS	sink
+10317.000069029	nose	source
+14542.JLP1P1.R4	ISS	sink
+11950.loc2.Plywood.dry.TP0.DUP	building materials	source
+11442.G86863	food	source
+10317.000069181	oral cavity	source
+755.SSFA.L1.D1.17.05.11.lane1.NoIndex.L001	Soil (non-saline)	source
+11442.G87358	food	source
+11950.loc1.Gypsum.wet.TP4.RE	building materials	source
+10317.000157592	feces	source
+755.EF.THETA.22.07.11.lane3.NoIndex.L003	Soil (non-saline)	source
+12201.uriF.P.2.qiagen.L	urine	source
+11442.G87555	food	source
+14542.JLP1F1.L2	ISS	sink
+10317.000010209	feces	source
+14542.NOD3D5.L3	ISS	sink
+12201.urine.male.C.3.powersoil.L	urine	source
+10317.000033729	feces	source
+10317.000028859	feces	source
+10317.000030592	feces	source
+10317.000049298	feces	source
+14542.NOD2O2.R3	ISS	sink
+14542.NOD3O2.L8	ISS	sink
+1288.SSBE03July07.McMahon.Pool.2.and.1percentPhiX.110310.HWUSI.EAS552R.0357.s.8.1.sequence	Water (non-saline)	source
+11950.loc2.Plywood.wet.TP6.DUP	building materials	source
+10317.000096994	oral cavity	source
+10317.000063425	nose	source
+14542.JPM1D3.L2	ISS	sink
+10317.000049828	skin	source
+12201.uriF.D.1.pro.L	urine	source
+14542.NOD3A5.R1	ISS	sink
+10317.000015179	skin	source
+11950.loc1.MFGypsum.wet.TP4.RE	building materials	source
+14542.NOD1S4.L8	ISS	sink
+11950.loc2.Gypsum.wet.TP5.RE	building materials	source
+12201.uriF.S.1.qiagen.L	urine	source
+14542.NOD2S2.L3	ISS	sink
+11950.control.MFGypsum.dry.TP2.RE	building materials	source
+10317.X00214984	feces	source
+10317.000050412	oral cavity	source
+14542.NOD3D5.L4	ISS	sink
+10317.000015508	skin	source
+14542.NOD3A5.L2	ISS	sink
+10317.000006913	skin	source
+14542.JPM1F1.L1	ISS	sink
+2080.S42D2085	Water (saline)	source
+10317.000050929	skin	source
+11442.G74072	food	source
+14542.NOD1S2.R6	ISS	sink
+14542.NOD1S2.R1	ISS	sink
+12201.urine.male.B.3.nucleomag.L	urine	source
+14542.PMM1S1.R4	ISS	sink
+12201.uriM.O.2.microbiome20.L	urine	source
+1240.0911BCDNA	Water (saline)	source
+10317.000012449	nose	source
+10317.X00167640	feces	source
+1240.1307TCDNA	Water (saline)	source
+11950.control.Plywood.dry.TP3.RE.DUP	building materials	source
+1714.McG.OPA02	Soil (non-saline)	source
+10317.000087051	feces	source
+12201.uriM.B.2.standard.L	urine	source
+1240.0710BCDNA	Water (saline)	source
+12201.urine.female.F.2.nucleomag.L	urine	source
+723.IC4.S1.G3.Catlin2.16Spool.110602.HWI.EAS137R.0375.s.5.1.sequence	Water (saline)	source
+14542.NOD2S2.L4	ISS	sink
