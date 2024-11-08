@@ -1,0 +1,524 @@
+Genome	Accession	RefSeq type	Source information	Number of segments	Genome length	Number of proteins	Genome Neighbors	Host	Date completed	Date updated
+Adeno-associated virus	NC_040671	complete	isolate:MHH-05-2015	-	4857 nt	2	75	"human, vertebrates"	2/12/19	9/12/19
+Adeno-associated virus - 1	NC_002077	complete	-	-	4718 nt	2	5	"human, vertebrates"	4/27/99	8/13/18
+Adeno-associated virus - 3	NC_001729	complete	strain:3H	-	4726 nt	2	5	"human, vertebrates"	7/11/96	8/13/18
+Adeno-associated virus - 4	NC_001829	complete	isolate:ATCC VR-646	-	4767 nt	2	5	"human, vertebrates"	8/21/97	8/13/18
+Adeno-associated virus - 7	NC_006260	complete	-	-	4721 nt	2	5	"human, vertebrates"	9/9/04	8/13/18
+Adeno-associated virus - 8	NC_006261	complete	-	-	4393 nt	2	5	"human, vertebrates"	9/9/04	8/13/18
+Adult diarrheal rotavirus strain J19	-	complete	strain:J19	11	17961 nt	11	-	"human, vertebrates"	11/2/05	8/13/18
+Aichivirus B	NC_004421	complete	strain:U-1	-	8374 nt	1	15	"human, vertebrates"	11/18/02	8/13/18
+Akhmeta virus	NC_055230	complete	isolate:Akhmeta_2013-88	-	221923 nt	220	-	"human, vertebrates"	6/1/21	6/7/21
+Alenquer virus	-	complete	-	3	12455 nt	4	-	human	6/1/21	6/7/21
+Alphapapillomavirus 3	NC_001694	complete	-	-	7989 nt	7	51	human	10/18/95	8/13/18
+Alphapapillomavirus 4	NC_001352	complete	-	-	7860 nt	7	11	human	2/18/91	8/13/18
+Alphapapillomavirus 7	NC_001357	complete	-	-	7857 nt	8	302	"human, vertebrates"	9/19/87	8/13/18
+Aroa virus	NC_009026	complete	strain:Bussuquara virus; isolate:BeAn 4073	-	10815 nt	1	7	"human, invertebrates, vertebrates"	2/20/07	8/13/18
+Astrovirus MLB1	NC_011400	complete	isolate:MLB1	-	6171 nt	3	10	human	10/22/08	8/13/18
+Astrovirus MLB2	NC_016155	complete	isolate:MLB2/human/Stl/WD0559/2008	-	6119 nt	3	2	human	3/12/12	8/13/18
+Astrovirus MLB3	NC_019028	complete	isolate:MLB3/human/Vellore/26564/2004	-	6124 nt	3	-	human	10/31/12	8/13/18
+Astrovirus VA1	NC_013060	complete	isolate:VA1	-	6586 nt	3	4	"human, vertebrates"	8/5/09	8/13/18
+Astrovirus VA3	NC_019026	complete	isolate:VA3/human/Vellore/28054/2005	-	6581 nt	3	-	human	10/31/12	8/13/18
+Astrovirus VA4	NC_019027	complete	isolate:VA4/human/Nepal/S5363/2008	-	6518 nt	3	-	human	10/31/12	8/13/18
+Avian gyrovirus 2	NC_015396	complete	-	-	2383 nt	3	49	"human, vertebrates"	4/25/11	8/13/18
+Baboon endogenous virus strain M7	NC_022517	complete	strain:M7	-	8507 nt	3	1	"human, vertebrates"	11/25/14	8/13/18
+Banna virus strain JKT-6423	-	complete	strain:JKT-6423	12	20682 nt	12	-	"human, invertebrates, vertebrates"	6/27/00	8/13/18
+Barmah Forest virus	NC_001786	complete	strain:BH2193	-	11488 nt	4	37	"human, invertebrates, vertebrates"	1/14/97	8/13/18
+Bastrovirus 7	NC_035758	complete	-	-	6339 nt	3	-	human	8/31/17	8/13/18
+Batai virus	-	complete	strain:MS50	3	12270 nt	4	-	"human, invertebrates, vertebrates"	6/28/19	8/22/19
+Betacoronavirus England 1	NC_038294	complete	strain:England 1; isolate:H123990006	-	30111 nt	11	672	"human, vertebrates"	8/24/18	11/22/20
+Betapolyomavirus hominis	NC_001538	complete	-	-	5153 nt	6	490	"human, vertebrates"	11/3/82	8/13/18
+Betapolyomavirus macacae	NC_001669	complete	-	-	5243 nt	7	34	"human, vertebrates"	8/3/93	6/4/19
+Betapolyomavirus tertihominis	NC_009238	complete	isolate:Stockholm 60	-	5040 nt	5	11	human	3/30/07	8/13/18
+Bhanja virus	-	complete	strain:ibAr2709	3	11511 nt	4	-	"human, invertebrates"	6/2/15	8/13/18
+Bocaparvovirus primate1	-	complete	-	2	10842 nt	11	-	"human, vertebrates"	5/4/23	5/5/23
+Bocavirus gorilla/GBoV1/2009	NC_014358	complete	isolate:GBoV1	-	4944 nt	4	35	"human, vertebrates"	8/5/10	8/13/18
+Borna disease virus 1	NC_001607	complete	strain:V	-	8910 nt	6	46	"human, vertebrates"	1/6/94	8/30/16
+Borna disease virus 2	NC_030692	complete	strain:No/98	-	8908 nt	6	46	"human, vertebrates"	9/19/01	8/23/16
+Bovine coronavirus	NC_003045	complete	isolate:BCoV-ENT	-	31028 nt	12	336	"human, vertebrates"	8/2/01	9/17/20
+Bovine leukemia virus	NC_001414	complete	-	-	8419 nt	6	278	"human, vertebrates"	1/21/98	8/13/18
+Bovine papular stomatitis virus	NC_005337	complete	strain:BV-AR02; isolate:ORFB	-	134431 nt	131	3	"human, vertebrates"	1/21/04	12/20/20
+Bovine viral diarrhea virus 1	NC_001461	complete	strain:NADL	-	12573 nt	1	160	"human, vertebrates"	8/2/93	8/13/18
+Bovine viral diarrhea virus 1-SD1	NC_076029	complete	-	-	12308 nt	1	160	"human, vertebrates"	5/4/23	5/5/23
+Bovine viral diarrhea virus 2	NC_039237	complete	isolate:890	-	12513 nt	1	109	"human, vertebrates"	8/24/18	8/24/18
+Breda virus	NC_007447	complete	strain:Breda 1	-	28475 nt	6	14	"human, vertebrates"	10/5/05	8/13/18
+Bufavirus-3	NC_024888	complete	strain:BTN-63	-	4733 nt	4	5	human	9/17/14	8/13/18
+Bundibugyo virus	NC_014373	complete	isolate:Bundibugyo virus/H.sapiens-tc/UGA/2007/Butalya-811250	-	18940 nt	9	24	"human, vertebrates"	8/9/10	11/7/18
+Bunyamwera virus	-	complete	-	3	12294 nt	4	-	"human, invertebrates, vertebrates"	4/29/93	8/13/18
+Burana virus	-	complete	strain:760	3	17427 nt	3	-	"human, invertebrates, vertebrates"	6/28/19	8/22/19
+Cache Valley virus	-	complete	strain:6V633	3	12283 nt	4	-	"human, invertebrates, vertebrates"	6/28/19	8/22/19
+California sea lion astrovirus 2	NC_034975	incomplete	strain:CSL2	-	3510 nt	2	3	"human, vertebrates"	6/13/17	8/13/18
+Camel alphacoronavirus	NC_028752	complete	isolate:camel/Riyadh/Ry141/2015	-	27395 nt	7	76	"human, vertebrates"	1/5/16	12/29/21
+Camelpox virus	NC_003391	complete	isolate:M-96	-	205719 nt	211	3	"human, vertebrates"	2/4/02	12/20/20
+Cangyuan orthoreovirus	-	complete	strain:Cangyuan	10	23325 nt	10	-	"human, vertebrates"	12/4/14	8/13/18
+Caraparu virus	-	complete	strain:BeAn3994	3	12259 nt	4	-	"human, invertebrates, vertebrates"	5/5/17	8/13/18
+Catu virus	-	complete	strain:BeH 151	3	12024 nt	3	-	human	8/24/18	8/24/18
+Central cimpanzee simian foamy virus	NC_039024	complete	strain:Pan troglodytes troglodytes; isolate:BAD327	-	13220 nt	5	-	human	8/24/18	8/24/18
+Cercopithecine betaherpesvirus 5	NC_012783	complete	strain:2715	-	226205 nt	177	1	"human, vertebrates"	6/8/09	8/13/18
+Chagres virus	-	complete	-	3	12602 nt	4	-	human	6/1/21	6/7/21
+Chandipura virus	NC_020805	complete	isolate:CIN 0451	-	11120 nt	5	10	"human, invertebrates, vertebrates"	3/26/13	8/13/18
+Chandiru virus	-	complete	-	3	12495 nt	4	-	"human, invertebrates, vertebrates"	4/7/11	8/13/18
+Chiba-040502 virus	NC_075964	incomplete	-	-	2472 nt	2	-	"human, vertebrates"	5/4/23	5/4/23
+Chicken anemia virus	NC_001427	complete	-	-	2319 nt	4	348	"human, vertebrates"	8/2/93	8/13/18
+Chikungunya virus	NC_004162	complete	strain:S27-African prototype	-	11826 nt	2	1057	"human, invertebrates, vertebrates"	9/6/02	10/29/18
+Chimpanzee adenovirus Y25	NC_017825	complete	-	-	36711 nt	31	73	"human, vertebrates"	5/4/12	12/21/20
+Choclo virus	-	incomplete	-	2	5657 nt	2	-	"human, vertebrates"	8/24/18	8/24/18
+Circo-like virus-Brazil hs1	NC_023888	complete	strain:hs1	-	2526 nt	4	1	human	4/3/14	8/13/18
+Circular ssDNA virus sp.	NC_030449	complete	isolate:HV-CV1	-	2951 nt	3	19	"human, vertebrates"	7/2/16	8/25/18
+Colobus guereza papillomavirus 2	NC_015692	complete	isolate:CgPV2	-	7686 nt	6	11	"human, vertebrates"	6/24/11	8/13/18
+Cosavirus A	NC_012800	complete	strain:HCoSV-A1; isolate:0553	-	7632 nt	1	4	"human, vertebrates"	6/11/09	8/13/18
+Cosavirus D	NC_012802	complete	strain:HCoSV-D1; isolate:5004	-	7215 nt	1	1	human	6/11/09	8/13/18
+Cosavirus E	NC_012798	complete	strain:HCoSV-E1	-	6580 nt	1	-	human	6/11/09	8/13/18
+Cosavirus F	NC_034385	complete	strain:PK5006; serotype:HCoSV-F	-	6656 nt	1	1	"human, vertebrates"	5/1/17	8/13/18
+Cosavirus JMY-2014	NC_025961	complete	isolate:Cosa-CHN	-	7213 nt	1	-	human	12/24/14	8/13/18
+Cowden I virus	NC_000940	complete	strain:Cowden	-	7320 nt	2	200	"human, vertebrates"	10/31/99	2/1/22
+Cowpox virus	NC_003663	complete	strain:Brighton Red	-	224499 nt	233	88	"human, vertebrates"	4/16/02	12/20/20
+Coxsackievirus A2	NC_038306	complete	strain:Fleetwood; isolate:CA2	-	7398 nt	1	3092	"human, vertebrates"	8/24/18	6/4/19
+Coxsackievirus B3	NC_038307	complete	-	-	7399 nt	1	729	"human, vertebrates"	8/24/18	8/24/18
+Cressdnaviricota sp.	-	complete	isolate:ctjj384	2	4238 nt	4	-	"human, vertebrates"	5/4/23	5/5/23
+Cutavirus	NC_039050	complete	strain:BR-337	-	4456 nt	5	4	"human, vertebrates"	8/24/18	8/24/18
+Cyclovirus NG12	NC_038416	complete	isolate:NG12	-	1794 nt	2	1	human	8/24/18	8/24/18
+Cyclovirus NG14	NC_038417	complete	isolate:NG14	-	1795 nt	2	-	human	8/24/18	8/24/18
+Cyclovirus PK5006	NC_036877	complete	isolate:PK5006	-	1723 nt	2	-	human	2/16/18	8/13/18
+Cyclovirus PK5034	NC_038415	complete	isolate:PK5034	-	1780 nt	2	-	human	8/24/18	8/24/18
+Cyclovirus PK5222	NC_038413	complete	isolate:PK5222	-	1740 nt	2	-	human	8/24/18	8/24/18
+Cyclovirus PK5510	NC_038412	complete	isolate:PK5510	-	1759 nt	2	-	human	8/24/18	8/24/18
+Cyclovirus SL-108277	NC_038418	complete	strain:SL-108277	-	1710 nt	2	-	human	8/24/18	8/24/18
+Cyclovirus TN25	NC_038414	complete	isolate:TN25	-	1867 nt	2	1	human	8/24/18	8/24/18
+Cyclovirus VN	NC_039215	complete	isolate:hcf2	-	1856 nt	2	22	"human, vertebrates"	8/24/18	8/24/18
+Duck coronavirus	NC_048214	complete	isolate:DK/GD/27/2014	-	27754 nt	12	442	"human, vertebrates"	5/15/20	12/31/21
+Eastern chimpanzee simian foamy virus	NC_039025	complete	-	-	11954 nt	5	-	human	8/24/18	8/24/18
+Eastern equine encephalitis virus	NC_003899	complete	strain:ssp. North American variant	-	11675 nt	4	455	"human, invertebrates, vertebrates"	12/16/91	8/13/18
+Ebinur lake virus	-	complete	-	3	12194 nt	3	-	"human, invertebrates, vertebrates"	5/6/23	5/6/23
+Echarate virus	-	complete	-	3	12516 nt	4	-	human	6/1/21	6/7/21
+Ectromelia virus	NC_004105	complete	strain:Moscow	-	209771 nt	173	4	"human, vertebrates"	1/1/99	10/11/21
+Ekpoma virus 1	NC_038282	incomplete	isolate:EKV-1	-	12659 nt	8	-	human	8/24/18	8/24/18
+Ekpoma virus 2	NC_038283	complete	isolate:EKV-2	-	12674 nt	8	-	human	8/24/18	8/24/18
+Encephalomyocarditis virus	NC_001479	complete	strain:Ruckert	-	7835 nt	2	39	"human, vertebrates"	8/2/93	8/13/18
+Enterovirus A	NC_001612	complete	-	-	7413 nt	1	3092	"human, vertebrates"	3/8/94	8/13/18
+Enterovirus B	NC_001472	complete	-	-	7389 nt	1	729	"human, vertebrates"	8/2/93	8/13/18
+Enterovirus C	NC_002058	complete	strain:Human poliovirus 1 Mahoney	-	7440 nt	1	1571	"human, vertebrates"	11/3/82	8/13/18
+Enterovirus C95	NC_075726	incomplete	-	-	894 nt	1	-	"human, vertebrates"	5/4/23	5/5/23
+Enterovirus D	NC_001430	complete	strain:Enterovirus 70	-	7390 nt	1	894	human	4/29/93	8/13/18
+Enterovirus sp.	NC_024073	complete	isolate:CPML_8109/08	-	7376 nt	1	2	"human, vertebrates"	5/6/14	8/13/18
+European bat lyssavirus 2	NC_009528	complete	isolate:RV1333	-	11930 nt	5	30	"human, vertebrates"	6/7/07	8/13/18
+Fort Sherman virus	-	complete	strain:86MSP18	3	12294 nt	4	-	"human, vertebrates"	6/28/19	8/22/19
+Friend murine leukemia virus	NC_001362	complete	strain:FB29	-	8323 nt	3	59	"human, vertebrates"	10/29/91	8/13/18
+GB virus C	NC_001710	complete	-	-	9392 nt	1	76	"human, vertebrates"	1/27/96	8/13/18
+GB virus-B	NC_001655	complete	-	-	9399 nt	1	8	"human, vertebrates"	10/7/99	5/23/19
+Gammapapillomavirus sp.	-	complete	isolate:Gamma_LCOSOc196	9	65410 nt	60	-	human	2/12/19	9/12/19
+Gemycircularvirus C1c	NC_038496	complete	isolate:GemyC1c	-	2109 nt	1	-	"human, vertebrates"	8/24/18	8/24/18
+Gemycircularvirus HV-GcV1	NC_030447	complete	isolate:HV-GcV1	-	2264 nt	4	-	human	7/4/16	8/13/18
+Gemycircularvirus HV-GcV2	NC_030448	complete	isolate:HV-GcV2	-	2262 nt	3	-	human	7/4/16	8/13/18
+Gemycircularvirus SL1	NC_026818	complete	strain:SL1	-	2199 nt	2	9	"human, vertebrates"	4/16/15	8/13/18
+Gemycircularvirus sp.	NC_040379	complete	isolate:yc-18	-	2277 nt	2	1	"human, vertebrates"	2/12/19	9/12/19
+Gibbon ape leukemia virus	NC_001885	complete	-	-	8088 nt	3	5	"human, vertebrates"	8/2/93	8/13/18
+Great Island virus	-	complete	isolate:CanAr 42	10	17858 nt	11	-	"human, invertebrates"	11/16/10	8/13/18
+Guaroa virus	-	complete	strain:BeH22063	3	12265 nt	5	-	human	5/5/17	8/25/18
+Guenon simian foamy virus	NC_043445	complete	strain:Cercopithecus nictitans; isolate:AG16	-	13072 nt	5	-	human	6/28/19	6/28/19
+Gumbo Limbo virus	-	complete	-	3	12513 nt	4	-	"human, invertebrates, vertebrates"	5/6/23	5/6/23
+Gyrovirus 4	NC_018401	complete	strain:D137	-	2034 nt	2	4	"human, vertebrates"	8/13/12	8/13/18
+Gyrovirus GyV3	NC_017091	complete	strain:FecGy	-	2359 nt	3	4	"human, vertebrates"	7/10/12	8/13/18
+Gyrovirus Tu243	NC_022788	complete	strain:Tu243	-	2020 nt	3	-	human	11/12/13	8/13/18
+Gyrovirus Tu789	NC_022789	complete	strain:Tu789	-	2282 nt	3	-	human	11/12/13	8/13/18
+HMO Astrovirus A	NC_013443	complete	isolate:NI-295	-	6534 nt	3	1	human	10/28/09	8/13/18
+Hantavirus Z10	-	complete	strain:Z10	3	11850 nt	3	-	human	11/13/04	8/13/18
+Heartland virus	-	complete	isolate:Patient1	3	11567 nt	4	-	"human, invertebrates"	7/24/14	8/13/18
+Henipavirus hendraense	NC_001906	complete	-	-	18234 nt	8	4	"human, vertebrates"	7/1/98	8/13/18
+Henipavirus nipahense	NC_002728	complete	-	-	18246 nt	9	7	"human, vertebrates"	6/1/00	8/13/18
+Hepacivirus platyrrhini	NC_038426	complete	-	-	9143 nt	1	8	human	8/24/18	7/22/19
+Hepatitis B virus	NC_003977	complete	strain:ayw	-	3182 nt	7	13312	"human, vertebrates"	6/9/82	3/25/21
+Hepatitis C virus (isolate H77)	NC_038882	complete	strain:H77	-	9599 nt	2	2263	"human, vertebrates"	8/24/18	4/22/21
+Hepatitis C virus genotype 1	NC_004102	complete	serotype:1a; isolate:H77	-	9646 nt	2	2263	"human, vertebrates"	8/9/97	7/11/19
+Hepatitis C virus genotype 2	NC_009823	complete	strain:HC-J6CH	-	9711 nt	2	2263	"human, vertebrates"	10/1/07	5/22/19
+Hepatitis C virus genotype 3	NC_009824	complete	isolate:NZL1	-	9456 nt	2	2263	"human, vertebrates"	10/1/07	5/22/19
+Hepatitis C virus genotype 4	NC_009825	complete	isolate:ED43	-	9355 nt	2	2263	"human, vertebrates"	7/9/97	5/22/19
+Hepatitis C virus genotype 5	NC_009826	complete	strain:EUH1480	-	9343 nt	2	2263	"human, vertebrates"	9/12/97	5/22/19
+Hepatitis C virus genotype 6	NC_009827	complete	isolate:Th580	-	9628 nt	2	2263	"human, vertebrates"	10/1/07	5/22/19
+Hepatitis C virus genotype 7	NC_030791	complete	isolate:QC69	-	9443 nt	2	2263	"human, vertebrates"	8/19/16	5/28/19
+Hepatitis E virus rat/R63/DEU/2009	NC_038504	complete	isolate:R63	-	6965 nt	6	24	"human, vertebrates"	8/24/18	6/4/19
+Hepatitis delta virus	NC_001653	complete	-	-	1682 nt	2	694	"human, vertebrates"	4/29/93	1/4/22
+Hepatovirus A	NC_001489	complete	-	-	7478 nt	2	138	"human, vertebrates"	8/2/93	8/13/18
+Heron hepatitis B virus	NC_001486	complete	-	-	3027 nt	4	3	"human, vertebrates"	8/2/93	8/13/18
+Horsepox virus	NC_066642	complete	isolate:MNR-76	-	212633 nt	185	104	"human, vertebrates"	9/29/22	10/9/22
+Hudisavirus sp.	NC_035475	complete	isolate:P22	-	2585 nt	2	6	human	8/24/17	12/21/20
+Human DNA virus	NC_040309	complete	isolate:IND-KIs-REVA-1990	-	9585 nt	1	-	human	2/12/19	12/21/20
+Human T-cell leukemia virus type I	NC_001436	complete	-	-	8507 nt	6	300	"human, vertebrates"	1/21/98	8/13/18
+Human T-lymphotropic virus 2	NC_001488	complete	-	-	8952 nt	5	15	"human, vertebrates"	8/2/93	8/13/18
+Human T-lymphotropic virus 4	NC_011800	complete	strain:1863LE	-	8791 nt	6	1	human	1/5/09	8/13/18
+Human TMEV-like cardiovirus	NC_010810	complete	-	-	7961 nt	1	-	"human, vertebrates"	6/5/08	8/13/18
+Human adenovirus 54	NC_012959	complete	strain:Kobe-H	-	34920 nt	36	166	"human, vertebrates"	7/13/09	12/20/20
+Human alphaherpesvirus 1	NC_001806	complete	strain:17; common:Herpes simplex virus type 1	-	152222 nt	77	123	"human, vertebrates"	4/3/90	8/13/18
+Human alphaherpesvirus 2	NC_001798	complete	strain:HG52	-	154675 nt	77	65	"human, vertebrates"	2/27/97	5/16/16
+Human alphaherpesvirus 3	NC_001348	complete	strain:Dumas; common:Varicella-zoster virus	-	124884 nt	73	204	human	9/19/87	8/13/18
+Human associated cyclovirus 10	NC_023874	complete	strain:7078A	-	1790 nt	2	3	human	4/3/14	8/13/18
+Human associated gemyvongvirus 1	NC_028459	complete	isolate:DB1	-	2272 nt	3	-	human	11/24/15	1/7/19
+Human associated huchismacovirus 1	NC_039061	complete	isolate:Oregon/6/2011/GottageGrove/5A1	-	2460 nt	2	-	human	8/24/18	8/24/18
+Human associated huchismacovirus 2	NC_039062	complete	isolate:France/8/2008/2444	-	2471 nt	2	-	human	8/24/18	8/24/18
+Human associated huchismacovirus 3	NC_039063	complete	isolate:France/1/2009/3664	-	2459 nt	2	-	human	8/24/18	8/24/18
+Human astrovirus	NC_001943	complete	type:1	-	6813 nt	2	14	human	11/1/93	8/13/18
+Human astrovirus BF34	NC_024472	complete	strain:BF34	-	6577 nt	3	-	human	7/14/14	8/13/18
+Human betaherpesvirus 5	NC_006273	complete	strain:Merlin; culture-collection:ATCC:VR-1590	-	235646 nt	169	360	human	9/16/04	8/13/18
+Human betaherpesvirus 6A	NC_001664	complete	isolate:U1102	-	159378 nt	88	6	human	6/5/95	1/18/19
+Human betaherpesvirus 6B	NC_000898	complete	strain:Z29; type:B	-	162114 nt	104	8	"human, vertebrates"	8/16/99	8/13/18
+Human betaherpesvirus 7	NC_001716	complete	strain:RK	-	153080 nt	86	2	human	12/29/95	8/13/18
+Human bocavirus 2c PK	NC_012042	complete	isolate:PK-5510	-	5196 nt	4	17	"human, vertebrates"	2/5/09	8/13/18
+Human bocavirus 3	NC_012564	complete	strain:W471	-	5242 nt	4	35	"human, vertebrates"	4/17/09	8/13/18
+Human bocavirus 4 NI	NC_012729	complete	strain:HBoV4-NI-385	-	5104 nt	5	17	"human, vertebrates"	5/28/09	8/13/18
+Human circovirus VS6600022	NC_024694	complete	isolate:VS6600022	-	2836 nt	4	-	human	8/13/14	8/13/18
+Human coronavirus 229E	NC_002645	complete	-	-	27317 nt	8	76	"human, vertebrates"	1/11/01	8/17/21
+Human coronavirus HKU1	NC_006577	complete	isolate:HKU1	-	29926 nt	9	46	human	12/28/04	11/20/20
+Human coronavirus NL63	NC_005831	complete	strain:Amsterdam I	-	27553 nt	7	68	human	3/23/04	11/27/21
+Human coronavirus OC43	NC_006213	complete	strain:ATCC VR-759; serotype:OC43	-	30741 nt	10	336	"human, vertebrates"	2/21/19	9/16/20
+Human cosavirus	NC_023984	complete	isolate:Cosavirus_Amsterdam_1994	-	7802 nt	1	2	human	4/14/14	8/13/18
+Human cosavirus B	NC_012801	complete	strain:HCoSV-B1; isolate:2263	-	7205 nt	1	-	human	6/11/09	8/13/18
+Human cyclovirus VS5700009	NC_021568	complete	isolate:VS5700009	-	1832 nt	2	-	human	6/24/13	8/13/18
+Human endogenous retrovirus K113	NC_022518	complete	-	-	9472 nt	1	1	human	9/30/13	8/13/18
+Human erythrovirus V9	NC_004295	complete	strain:V9	-	5028 nt	6	2	human	9/30/01	8/13/18
+Human fecal virus Jorvi2	NC_035212	complete	isolate:Jorvi2	-	3925 nt	5	-	human	7/14/17	6/4/19
+Human fecal virus Jorvi3	NC_035213	complete	isolate:Jorvi3	-	1942 nt	2	-	human	7/14/17	6/4/19
+Human fecal virus Jorvi4	NC_035211	complete	isolate:Jorvi4	-	2343 nt	2	-	human	7/14/17	6/4/19
+Human feces pecovirus	NC_040306	complete	strain:PeCV-NI	-	2928 nt	2	-	human	2/12/19	12/21/20
+Human feces smacovirus 3	NC_035474	complete	strain:SmaCV3.21; isolate:P21	-	2560 nt	2	1	human	8/24/17	8/13/18
+Human gammaherpesvirus 8	NC_009333	complete	strain:GK18; type:P	-	137969 nt	86	53	"human, vertebrates"	4/3/07	6/4/19
+Human gemycircularvirus GeTz1	NC_038497	complete	isolate:GeTz1	-	2202 nt	3	-	human	8/24/18	8/24/18
+Human genital-associated circular DNA virus-1	NC_026817	complete	isolate:349	-	2235 nt	3	-	human	4/16/15	8/13/18
+Human hepegivirus	NC_038436	complete	isolate:AK-790	-	9538 nt	1	18	human	8/24/18	8/24/18
+Human herpesvirus 4 type 2	NC_009334	complete	strain:AG876; common:Epstein-Barr virus type 2	-	172764 nt	80	657	"human, vertebrates"	4/3/07	8/13/18
+Human immunodeficiency virus 1	NC_001802	complete	-	-	9181 nt	10	12629	"human, vertebrates"	1/22/98	8/13/18
+Human immunodeficiency virus 2	NC_001722	complete	isolate:BEN	-	10359 nt	9	72	human	8/2/93	8/13/18
+Human lung-associated vientovirus FB	NC_055523	complete	-	-	3056 nt	3	52	human	6/1/21	6/8/21
+Human mastadenovirus A	NC_001460	complete	strain:Huie; serotype:Human adenovirus 12; culture-collection:ATCC:VR-863	-	34125 nt	36	3	"human, vertebrates"	7/6/93	12/20/20
+Human mastadenovirus B	-	complete	strain:Slobitski; type:2; type:Ad11p; serotype:Human adenovirus 11; culture-collection:ATCC:VR-12	2	70137 nt	77	-	"human, vertebrates"	9/4/08	12/20/20
+Human mastadenovirus C	NC_001405	complete	serotype:Human adenovirus 2	-	35937 nt	38	120	"human, vertebrates"	4/27/93	8/13/18
+Human mastadenovirus D	NC_010956	complete	strain:Hicks; NIAID V-209-003-014; serotype:Human adenovirus 9	-	35083 nt	38	166	"human, vertebrates"	6/12/08	12/20/20
+Human mastadenovirus E	NC_003266	complete	strain:vaccine (CL 68578); serotype:human adenovirus 4	-	35994 nt	37	73	"human, vertebrates"	11/27/01	12/20/20
+Human mastadenovirus F	NC_001454	complete	strain:Dugan; serotype:Human adenovirus 40	-	34214 nt	34	15	"human, vertebrates"	7/26/93	12/20/20
+Human orthorubulavirus 2	NC_003443	complete	-	-	15646 nt	7	69	"human, vertebrates"	7/10/91	8/13/18
+Human papillomavirus	NC_027779	complete	isolate:SE379	-	7320 nt	6	23	human	8/24/15	8/13/18
+Human papillomavirus 109	NC_012485	complete	-	-	7346 nt	7	9	human	3/31/09	8/13/18
+Human papillomavirus 116	NC_013035	complete	strain:HPV116	-	7184 nt	7	4	human	7/28/09	8/13/18
+Human papillomavirus 121	NC_014185	complete	type:121; isolate:NJ3301	-	7342 nt	7	2	human	6/2/10	8/13/18
+Human papillomavirus 126	NC_016157	complete	strain:HPV126	-	7326 nt	7	3	human	11/29/11	8/13/18
+Human papillomavirus 127	NC_014469	complete	isolate:R3a	-	7181 nt	7	8	human	8/25/10	8/13/18
+Human papillomavirus 132	NC_014955	complete	isolate:27-50	-	7125 nt	7	8	human	1/24/11	8/13/18
+Human papillomavirus 134	NC_014956	complete	isolate:39-65	-	7309 nt	7	9	human	1/24/11	6/4/19
+Human papillomavirus 135	NC_017993	complete	isolate:NJ3500	-	7293 nt	7	5	human	6/4/12	8/13/18
+Human papillomavirus 136	NC_017994	complete	isolate:CL3865	-	7319 nt	7	3	human	6/4/12	8/13/18
+Human papillomavirus 140	NC_017996	complete	isolate:NJ2801C1	-	7341 nt	7	3	human	6/4/12	8/13/18
+Human papillomavirus 144	NC_017997	complete	isolate:CL3740	-	7271 nt	7	-	human	6/4/12	8/13/18
+Human papillomavirus 154	NC_021483	complete	isolate:PV77	-	7286 nt	7	3	human	6/17/13	8/13/18
+Human papillomavirus 156	NC_033781	complete	isolate:GC01	-	7329 nt	7	3	human	2/24/17	8/13/18
+Human papillomavirus 16	NC_001526	complete	-	-	7906 nt	9	5085	human	8/2/93	8/13/18
+Human papillomavirus 167	NC_022892	complete	isolate:KC10	-	7228 nt	6	-	human	11/26/13	8/13/18
+Human papillomavirus 172	NC_038523	complete	-	-	7203 nt	7	10	human	8/24/18	8/24/18
+Human papillomavirus 175	NC_038524	complete	type:175; isolate:SE87	-	7226 nt	7	2	human	8/24/18	8/24/18
+Human papillomavirus 178	NC_023891	complete	-	-	7314 nt	7	7	human	4/7/14	8/13/18
+Human papillomavirus 179	NC_022095	complete	isolate:SIBX16	-	7228 nt	6	5	human	8/14/13	8/13/18
+Human papillomavirus 184	NC_038914	complete	isolate:SIBX17	-	7324 nt	6	1	human	10/22/13	8/24/18
+Human papillomavirus 187	NC_039086	complete	isolate:ACS447	-	7268 nt	6	-	human	8/24/18	8/24/18
+Human papillomavirus 201	NC_027528	complete	isolate:HPV201	-	7291 nt	7	-	human	7/20/15	8/13/18
+Human papillomavirus 204	NC_038525	complete	isolate:A342	-	7227 nt	7	-	human	8/24/18	8/24/18
+Human papillomavirus 4	NC_001457	complete	-	-	7353 nt	7	1	human	6/15/93	8/13/18
+Human papillomavirus 5	NC_001531	complete	-	-	7746 nt	8	11	"human, vertebrates"	8/2/93	8/13/18
+Human papillomavirus 9	NC_001596	complete	-	-	7434 nt	7	15	"human, vertebrates"	8/22/93	8/13/18
+Human papillomavirus KC5	NC_026946	complete	isolate:KC5	-	7143 nt	7	-	human	5/5/15	8/13/18
+Human papillomavirus type 161	NC_038522	complete	isolate:KC1	-	7238 nt	6	2	human	8/24/18	8/24/18
+Human papillomavirus type 26	NC_001583	complete	-	-	7855 nt	6	92	human	8/22/93	8/13/18
+Human papillomavirus type 32	NC_001586	complete	-	-	7961 nt	6	30	human	8/22/93	8/13/18
+Human papillomavirus type 34	NC_001587	complete	-	-	7723 nt	6	46	human	8/22/93	8/13/18
+Human papillomavirus type 41	NC_001354	complete	-	-	7614 nt	11	-	human	6/14/91	8/13/18
+Human papillomavirus type 48	NC_001690	complete	-	-	7100 nt	7	-	human	10/17/95	8/13/18
+Human papillomavirus type 49	NC_001591	complete	-	-	7560 nt	6	1	human	8/22/93	8/13/18
+Human papillomavirus type 50	NC_001691	complete	-	-	7184 nt	7	1	human	10/17/95	8/13/18
+Human papillomavirus type 53	NC_001593	complete	-	-	7856 nt	7	129	human	8/22/93	8/13/18
+Human papillomavirus type 54	NC_001676	complete	-	-	7759 nt	7	19	human	10/12/95	8/13/18
+Human papillomavirus type 60	NC_001693	complete	-	-	7313 nt	7	-	human	10/18/95	8/13/18
+Human papillomavirus type 63	NC_001458	complete	-	-	7348 nt	7	-	human	6/15/93	8/13/18
+Human papillomavirus type 6b	NC_001355	complete	strain:type 6b (HPV6b)	-	7902 nt	9	382	"human, vertebrates"	2/20/85	8/13/18
+Human papillomavirus type 7	NC_001595	complete	-	-	8027 nt	6	23	human	8/22/93	8/13/18
+Human papillomavirus type 85	NC_034616	complete	isolate:114B	-	7812 nt	8	-	human	5/19/17	8/25/18
+Human papillomavirus type 88	NC_010329	complete	-	-	7326 nt	7	1	human	2/11/08	8/13/18
+Human papillomavirus type 90	NC_004104	complete	serotype:90	-	8033 nt	7	19	"human, vertebrates"	8/5/02	8/13/18
+Human papillomavirus type 92	NC_004500	complete	type:92	-	7461 nt	7	2	human	1/7/03	8/13/18
+Human papillomavirus type 96	NC_005134	complete	-	-	7438 nt	7	2	human	10/9/03	8/13/18
+Human parainfluenza virus 4a	NC_021928	complete	strain:M-25	-	17052 nt	7	43	human	8/6/13	8/13/18
+Human parvovirus 4 G1	NC_007018	complete	-	-	5268 nt	2	28	"human, vertebrates"	5/24/05	8/13/18
+Human parvovirus B19	NC_000883	complete	isolate:J35	-	5596 nt	6	44	"human, vertebrates"	8/2/99	8/13/18
+Human pegivirus 2	NC_027998	complete	isolate:UC0125.US	-	9867 nt	1	18	human	10/8/15	8/13/18
+Human picobirnavirus	-	complete	strain:Hy005102	2	4270 nt	3	-	human	5/21/05	8/13/18
+Human polyomavirus 6	NC_014406	complete	isolate:607a	-	4926 nt	5	17	human	8/16/10	8/13/18
+Human polyomavirus 7	NC_014407	complete	isolate:713a	-	4952 nt	5	15	human	8/16/10	8/13/18
+Human polyomavirus 9	NC_015150	complete	isolate:HPyV9	-	5026 nt	5	5	human	3/25/11	8/13/18
+Human respirovirus 1	NC_003461	complete	strain:Washington 1964	-	15600 nt	10	56	"human, vertebrates"	3/15/02	8/13/18
+Human respirovirus 3	NC_001796	complete	-	-	15462 nt	8	436	"human, vertebrates"	9/1/98	8/13/18
+Human rhinovirus NAT001	NC_038878	complete	isolate:NAT001	-	6944 nt	1	361	"human, vertebrates"	8/24/18	8/24/18
+Human rotavirus B	-	complete	strain:Bang373	11	17932 nt	13	-	"human, vertebrates"	6/24/13	8/13/18
+Human smacovirus 1	NC_026252	complete	isolate:France/12/2008/3454	-	2460 nt	2	12	human	1/26/15	8/13/18
+Human stool-associated circular virus NG13	NC_038392	complete	isolate:NG13	-	1699 nt	2	-	human	8/24/18	8/24/18
+Husavirus sp.	NC_032480	complete	isolate:16370_59	-	8856 nt	1	2	human	12/29/16	8/13/18
+Ilesha virus	-	complete	strain:R5964	3	12298 nt	4	-	"human, invertebrates"	6/28/19	8/22/19
+Ilheus virus	NC_009028	complete	strain:Original	-	10755 nt	1	3	"human, invertebrates"	2/20/07	5/24/19
+Indian encephalitis associated cyclovirus	NC_032682	complete	isolate:IECSF08	-	1723 nt	2	-	human	1/5/17	8/13/18
+Infectious bronchitis virus	-	complete	strain:Beaudette	2	55072 nt	20	-	"human, vertebrates"	6/12/93	8/13/18
+Infectious spleen and kidney necrosis virus	NC_003494	complete	-	-	111362 nt	125	4	"human, vertebrates"	3/28/02	12/20/20
+Influenza A virus (A/California/07/2009(H1N1))	-	complete	strain:A/California/07/2009; serotype:H1N1	8	13158 nt	11	-	"human, vertebrates"	2/23/15	8/13/18
+Influenza A virus (A/Hong Kong/1073/99(H9N2))	-	complete	strain:A/Hong Kong/1073/99	8	13498 nt	10	-	"human, vertebrates"	6/30/00	8/13/18
+Influenza A virus (A/Korea/426/1968(H2N2))	-	complete	strain:A/Korea/426/1968; serotype:H2N2	8	13460 nt	12	-	"human, vertebrates"	8/30/05	8/13/18
+Influenza A virus (A/New York/392/2004(H3N2))	-	complete	strain:A/New York/392/2004; serotype:H3N2	8	13627 nt	12	-	"human, vertebrates"	8/30/05	8/13/18
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))	-	complete	strain:A/Puerto Rico/8/1934; serotype:H1N1	8	13588 nt	12	-	"human, vertebrates"	11/3/82	8/13/18
+Influenza A virus (A/Shanghai/02/2013(H7N9))	-	complete	strain:A/Shanghai/02/2013; serotype:H7N9	8	13191 nt	12	-	"human, vertebrates"	2/4/15	8/13/18
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))	-	complete	strain:A/Goose/Guangdong/1/96(H5N1)	8	13590 nt	12	-	"human, vertebrates"	8/26/05	8/13/18
+Influenza B virus (B/Lee/1940)	-	complete	strain:B/Lee/1940	8	14452 nt	10	-	"human, vertebrates"	11/10/99	8/13/18
+Influenza C virus (C/Ann Arbor/1/50)	-	complete	strain:C/Ann Arbor/1/50	7	12906 nt	9	-	"human, vertebrates"	9/24/04	8/13/18
+Ingwavuma virus	-	complete	isolate:SA An 4165	3	12388 nt	3	-	"human, vertebrates"	6/28/19	8/22/19
+JC polyomavirus	NC_001699	complete	strain:Mad1	-	5130 nt	6	691	human	8/2/93	8/13/18
+Japanese encephalitis virus	NC_001437	complete	-	-	10976 nt	2	395	"human, invertebrates, vertebrates"	8/2/93	5/24/19
+Jingmen tick virus	-	complete	isolate:SY84	4	11579 nt	5	-	"human, invertebrates, vertebrates"	5/16/14	8/13/18
+Keystone virus	-	complete	strain:B64-5587.05	3	12455 nt	4	-	"human, invertebrates"	6/28/19	8/22/19
+Kyasanur Forest disease virus	NC_039218	complete	-	-	10376 nt	1	27	"human, invertebrates, vertebrates"	8/24/18	5/24/19
+LI polyomavirus	NC_034253	complete	isolate:LIPyV	-	5269 nt	5	-	human	4/5/17	8/13/18
+La Crosse virus	-	complete	strain:Human/78	3	12491 nt	4	-	"human, invertebrates, vertebrates"	8/13/02	8/13/18
+Langat virus	NC_003690	complete	strain:TP21	-	10943 nt	1	4	"human, invertebrates, vertebrates"	6/11/00	5/23/19
+Le Dantec virus	NC_034443	complete	strain:DakHD763	-	11450 nt	6	-	human	5/5/17	8/13/18
+Lebombo virus	-	complete	isolate:SAAR 3896	10	19247 nt	11	-	human	8/24/18	6/4/19
+Lednice virus	-	complete	-	3	12454 nt	3	-	"human, invertebrates"	5/6/23	5/6/23
+Louping ill virus	NC_001809	complete	strain:369/T2	-	10871 nt	1	26	"human, invertebrates, vertebrates"	4/29/97	5/23/19
+Lyssavirus australis	NC_003243	complete	isolate:insectivorous isolate	-	11822 nt	5	28	"human, vertebrates"	8/10/99	8/13/18
+Lyssavirus duvenhage	NC_020810	complete	isolate:86132SA	-	11976 nt	5	4	"human, vertebrates"	3/26/13	8/13/18
+Lyssavirus lagos	NC_020807	complete	isolate:0406SEN	-	12016 nt	5	7	"human, vertebrates"	3/26/13	8/13/18
+Lyssavirus rabies	NC_001542	complete	-	-	11932 nt	5	2338	"human, vertebrates"	8/3/93	8/13/18
+MSSI2.225 virus	NC_024691	complete	isolate:MSSI2.225 (ms23.49)	-	2259 nt	3	3	human	7/28/14	8/13/18
+MW polyomavirus	NC_018102	complete	strain:MA095	-	4927 nt	5	21	human	7/5/12	8/13/18
+Macacine alphaherpesvirus 1	NC_004812	complete	strain:E2490	-	156789 nt	75	17	"human, vertebrates"	5/22/03	8/13/18
+Madariaga virus	NC_023812	complete	strain:MADV/Cebus apella/BRA/BEAN5122/1956	-	11624 nt	2	30	"human, invertebrates, vertebrates"	3/20/14	8/13/18
+Madrid virus	-	complete	strain:BT4075	3	12604 nt	4	-	"human, vertebrates"	5/5/17	8/13/18
+Maguari virus	-	complete	strain:BeAr 7272	3	12324 nt	5	-	"human, invertebrates, vertebrates"	6/1/21	6/7/21
+Maldonado virus	-	complete	strain:FMD 0077	3	12121 nt	4	-	human	6/1/21	6/7/21
+Mamastrovirus 1	NC_030922	complete	isolate:V1347	-	6673 nt	2	74	"human, vertebrates"	9/19/16	8/13/18
+Mamastrovirus 3	NC_025379	complete	isolate:PAstV-GX1	-	6705 nt	3	15	"human, vertebrates"	10/27/14	9/13/20
+Mammalian orthoreovirus 3	-	complete	serotype:3; isolate:MPC/04	10	23176 nt	11	-	"human, vertebrates"	9/15/09	8/13/18
+Mammarenavirus chapareense	-	complete	strain:810419	2	10464 nt	4	-	human	4/5/08	8/13/18
+Mammarenavirus choriomeningitidis	-	complete	-	4	20660 nt	8	-	"human, vertebrates"	5/6/23	5/7/23
+Mammarenavirus guanaritoense	-	complete	strain:INH-95551	2	10424 nt	4	-	"human, vertebrates"	8/30/03	8/13/18
+Mammarenavirus juninense	-	complete	strain:XJ13	2	10525 nt	4	-	"human, vertebrates"	8/30/03	8/13/18
+Mammarenavirus lassaense	-	complete	strain:Josiah	2	10681 nt	4	-	"human, vertebrates"	3/17/98	8/13/18
+Mammarenavirus lujoense	-	complete	-	2	10352 nt	4	-	human	6/4/09	8/13/18
+Mammarenavirus machupoense	-	complete	strain:Carvallo	2	10635 nt	4	-	"human, vertebrates"	8/30/03	8/13/18
+Marituba virus	-	complete	strain:BeAn15	3	12599 nt	4	-	"human, invertebrates, vertebrates"	5/5/17	8/13/18
+Mayaro virus	NC_003417	complete	-	-	11411 nt	4	42	"human, invertebrates, vertebrates"	2/22/02	8/13/18
+Measles morbillivirus	NC_001498	complete	strain:Ichinose-B95a	-	15894 nt	8	678	"human, vertebrates"	12/9/98	8/13/18
+Melaka orthoreovirus	-	complete	-	10	23410 nt	12	-	"human, vertebrates"	3/5/13	8/13/18
+Melao virus	-	complete	strain:TRVL 9375	3	12424 nt	4	-	"human, invertebrates"	6/28/19	8/22/19
+Merkel cell polyomavirus	NC_010277	complete	isolate:R17b	-	5387 nt	4	73	human	1/21/08	8/13/18
+Middle East respiratory syndrome-related coronavirus	NC_019843	complete	strain:HCoV-EMC; isolate:HCoV-EMC/2012	-	30119 nt	11	672	"human, vertebrates"	12/13/12	8/8/20
+Mogiana tick virus	-	complete	isolate:MGTV/V4/11	4	11025 nt	4	-	"human, invertebrates, vertebrates"	3/17/17	8/13/18
+Molluscum contagiosum virus subtype 1	NC_001731	complete	-	-	190289 nt	163	15	"human, vertebrates"	8/15/96	12/20/20
+Moloney murine leukemia virus	NC_001501	complete	-	-	8332 nt	3	59	"human, vertebrates"	1/21/98	8/13/18
+Mongoose feces-associated gemycircularvirus c	NC_026809	complete	strain:541c	-	2123 nt	2	-	"human, vertebrates"	4/16/15	8/13/18
+Monkeypox virus	NC_063383	complete	isolate:MPXV-M5312_HM12_Rivers; common:monkeypox	-	197209 nt	179	48	"human, vertebrates"	5/30/22	7/13/22
+Monkeypox virus Zaire-96-I-16	NC_003310	complete	strain:Zaire-96-I-16	-	196858 nt	181	48	"human, vertebrates"	12/12/01	7/8/22
+Mouse mammary tumor virus	NC_001503	complete	-	-	8805 nt	5	5	"human, vertebrates"	1/21/98	8/13/18
+Mumps orthorubulavirus	NC_002200	complete	strain:Miyahara	-	15384 nt	8	806	"human, vertebrates"	4/11/00	1/2/21
+Mupapillomavirus 1	NC_001356	complete	type:1a	-	7815 nt	7	1	human	11/3/82	8/13/18
+Murine type C retrovirus	NC_001702	complete	-	-	8135 nt	2	59	"human, vertebrates"	12/12/95	8/13/18
+Murray Valley encephalitis virus	NC_000943	complete	-	-	11014 nt	2	17	"human, invertebrates, vertebrates"	11/2/99	5/23/19
+NY_014 poxvirus	NC_035469	complete	strain:2013	-	200223 nt	197	-	human	8/24/17	12/21/20
+Nairobi sheep disease virus	-	complete	isolate:Jilin	3	18748 nt	3	-	"human, invertebrates"	5/1/17	8/13/18
+Nepuyo virus	-	complete	isolate:BeAn10709	3	12519 nt	4	-	"human, invertebrates, vertebrates"	5/7/23	5/8/23
+New Jersey polyomavirus-2013	NC_024118	complete	isolate:NJ-PyV-2013	-	5108 nt	6	-	human	5/19/14	8/13/18
+Norovirus GI	-	complete	strain:Hu/BD/2011/GI.7[PNA2]/Dhaka1882	4	30758 nt	12	-	"human, vertebrates"	9/26/19	10/15/19
+Norovirus GI/Hu/JP/2007/GI.P3_GI.3/Shimizu/KK2866	NC_039897	complete	isolate:Shimizu/KK2866	-	7745 nt	3	1659	"human, vertebrates"	11/21/18	7/31/19
+Norovirus GII	-	complete	isolate:NORO_176-1_17_12_2015	3	22613 nt	9	-	"human, vertebrates"	2/13/19	8/19/19
+Norovirus GII.17	NC_039475	complete	strain:Hu/GII.P17_GII.17/KR/2015/CAU-267	-	7556 nt	3	1659	"human, vertebrates"	10/12/18	8/9/19
+Norovirus GII.2	NC_039476	complete	isolate:BJSMQ	-	7536 nt	3	1659	"human, vertebrates"	10/12/18	11/8/18
+Norovirus GII/Hu/JP/2007/GII.P15_GII.15/Sapporo/HK299	NC_044045	complete	isolate:Sapporo/HK299	-	7551 nt	3	1659	"human, vertebrates"	7/29/19	7/31/19
+Norovirus GII/Hu/JP/2011/GII/Yuzawa/Gira2HS	NC_044046	complete	isolate:Yuzawa/Gira2HS	-	7543 nt	3	1659	"human, vertebrates"	7/29/19	7/31/19
+Norovirus GIII	NC_029645	complete	strain:Norovirus Bo/GIII.2/Adam/2006/No	-	7313 nt	3	1659	"human, vertebrates"	3/17/16	8/9/19
+Norovirus GIV	-	complete	strain:CU081210E/USA/2010	3	22785 nt	9	-	"human, vertebrates"	2/12/20	2/12/20
+Norovirus GV	NC_008311	complete	isolate:Mu/NoV/GV/MNV1/2002/USA	-	7382 nt	4	1659	"human, vertebrates"	8/30/06	8/13/18
+Norovirus dog/C33/Viseu/2007/PRT	NC_075733	incomplete	-	-	3357 nt	3	-	"human, vertebrates"	5/4/23	5/5/23
+Norovirus dog/GVI.1/HKU_Ca026F/2007/HKG	NC_044047	complete	strain:dog/GVI.1/HKU_Ca026F/2007/HKG	-	7637 nt	3	1659	"human, vertebrates"	7/29/19	8/9/19
+Northway virus	-	complete	strain:0234	3	12353 nt	4	-	"human, invertebrates, vertebrates"	5/7/23	5/8/23
+Norwalk-like virus	NC_029646	complete	strain:Hu/Norovirus/hiroshima/1999/JP(9912-02F)	-	7518 nt	3	1659	"human, vertebrates"	3/18/16	11/23/18
+Omsk hemorrhagic fever virus	NC_005062	complete	strain:Bogoluvovska	-	10787 nt	1	46	"human, invertebrates, vertebrates"	8/12/03	5/23/19
+Onyong-nyong virus	NC_001512	complete	-	-	11835 nt	3	3	"human, invertebrates"	8/2/93	8/13/18
+Orf virus	NC_005336	complete	strain:OV-SA00; isolate:ORFD	-	139962 nt	130	11	"human, vertebrates"	1/21/04	12/20/20
+Oriboca virus	-	complete	strain:BeAn17	3	12259 nt	4	-	"human, invertebrates, vertebrates"	5/5/17	8/13/18
+Oropouche virus	-	complete	-	3	11985 nt	4	-	"human, invertebrates, vertebrates"	3/4/04	8/13/18
+Orthobunyavirus bwambaense	-	complete	strain:M459	3	12587 nt	4	-	"human, invertebrates"	5/5/17	8/13/18
+Orthobunyavirus tacaiumaense	-	complete	strain:BeAn73	3	12162 nt	3	-	"human, vertebrates"	6/28/19	8/22/19
+Orthobunyavirus turlockense	-	complete	-	3	12878 nt	4	-	"human, invertebrates"	5/6/23	5/6/23
+Orthobunyavirus wyeomyiae	-	complete	strain:original	3	12461 nt	3	-	"human, invertebrates"	8/24/18	6/4/19
+Orthohantavirus andesense	-	complete	strain:Chile-9717869	3	12104 nt	4	-	"human, vertebrates"	10/10/00	8/13/18
+Orthohantavirus bayoui	-	complete	-	3	12189 nt	3	-	"human, vertebrates"	8/24/18	8/26/18
+Orthohantavirus dobravaense	-	complete	strain:DOBV/Ano-Poroia/Afl9/1999	3	11840 nt	3	-	"human, vertebrates"	3/27/03	8/13/18
+Orthohantavirus hantanense	-	complete	strain:76-118	3	11845 nt	3	-	"human, vertebrates"	11/15/90	8/13/18
+Orthohantavirus negraense	-	incomplete	strain:510B	2	5602 nt	3	-	"human, vertebrates"	8/24/18	8/24/18
+Orthohantavirus puumalaense	-	incomplete	-	6	24078 nt	4	-	"human, vertebrates"	5/6/23	5/6/23
+Orthohantavirus seoulense	-	complete	strain:80-39	3	11950 nt	3	-	"human, vertebrates"	11/25/03	8/13/18
+Orthohantavirus sinnombreense	-	complete	-	6	24635 nt	7	-	"human, vertebrates"	5/6/23	5/7/23
+Orthohantavirus tulaense	-	complete	strain:Tula/Moravia/5302Ma/94	3	12066 nt	4	-	"human, vertebrates"	11/20/95	8/13/18
+Orthomarburgvirus marburgense	-	complete	isolate:Marburg virus/H.sapiens-tc/KEN/1980/Mt. Elgon-Musoke	2	38225 nt	14	-	"human, vertebrates"	1/26/94	8/13/18
+Orthonairovirus haemorrhagiae	-	complete	strain:10200	3	19146 nt	3	-	"human, invertebrates, vertebrates"	12/13/03	8/13/18
+Orungo virus	-	complete	isolate:UGMP 359	10	18894 nt	11	-	human	8/24/18	6/4/19
+Papiine alphaherpesvirus 2	NC_007653	complete	strain:X313	-	156487 nt	75	6	"human, vertebrates"	12/19/05	8/13/18
+Papio ursinus cytomegalovirus	NC_027016	complete	isolate:OCOM4-52	-	226084 nt	84	1	"human, vertebrates"	5/14/15	8/13/18
+Parechovirus A	NC_001897	complete	strain:Gregory; serotype:2	-	7348 nt	1	329	"human, vertebrates"	5/25/98	8/13/18
+Parvovirus NIH-CQV	NC_022089	complete	isolate:NIH-CQV	-	3780 nt	3	5	"human, vertebrates"	8/17/13	8/13/18
+Pegivirus platyrrhini	-	complete	-	2	19203 nt	2	-	"human, vertebrates"	9/23/97	8/13/18
+Peste des petits ruminants virus	NC_006383	complete	isolate:Turkey 2000	-	15948 nt	8	136	"human, vertebrates"	10/15/04	8/13/18
+Picobirnavirus sp.	-	complete	strain:PBV/roe_deer/SLO/D38-14/2014	2	4297 nt	4	-	"human, vertebrates"	2/12/19	9/13/19
+Porcine circovirus 1	NC_001792	complete	-	-	1758 nt	2	81	"human, vertebrates"	9/9/98	8/13/18
+Porcine circovirus 2	NC_005148	complete	isolate:AUT1	-	1768 nt	3	3559	"human, vertebrates"	10/29/03	8/13/18
+Porcine endogenous retrovirus E	NC_003059	complete	-	-	8072 nt	-	10	"human, vertebrates"	8/12/01	8/13/18
+Porcine enterovirus 9	NC_004441	complete	strain:UKG/410/73	-	7388 nt	1	100	"human, vertebrates"	12/16/02	8/13/18
+Powassan virus	NC_003687	complete	strain:LB	-	10839 nt	1	267	"human, invertebrates, vertebrates"	7/26/93	5/23/19
+PreXMRV-1	NC_007815	complete	-	-	8197 nt	2	10	"human, vertebrates"	3/16/06	8/13/18
+Primate T-lymphotropic virus 1	NC_000858	complete	isolate:Tan90	-	9028 nt	4	300	"human, vertebrates"	6/20/99	2/1/22
+Primate T-lymphotropic virus 3	NC_003323	complete	isolate:CTO-604	-	8918 nt	5	8	"human, vertebrates"	12/19/01	2/1/22
+Pseudocowpox virus	NC_013804	complete	strain:VR634	-	145289 nt	134	1	"human, vertebrates"	2/16/10	12/20/20
+Pulau reovirus	-	complete	-	10	23405 nt	12	-	"human, vertebrates"	8/24/18	8/24/18
+Punta Toro virus	-	complete	strain:Adames	3	12618 nt	4	-	"human, invertebrates, vertebrates"	8/24/18	8/25/18
+RD114 retrovirus	NC_009889	complete	isolate:SC3C	-	8406 nt	2	1	human	10/5/07	8/13/18
+Respiratory syncytial virus	NC_001803	complete	strain:S2 ts1C	-	15191 nt	10	38	"human, vertebrates"	3/28/97	8/13/18
+Reston ebolavirus	NC_004161	complete	isolate:Reston virus/M.fascicularis-tc/USA/1989/Philippines89-Pennsylvania	-	18891 nt	9	20	"human, vertebrates"	9/4/02	8/13/18
+Rhinovirus A	NC_001617	complete	serotype:89	-	7152 nt	1	848	"human, vertebrates"	9/22/93	8/13/18
+Rhinovirus C	NC_009996	complete	strain:024	-	7099 nt	1	361	"human, vertebrates"	11/20/07	8/13/18
+Rift Valley fever virus	-	complete	strain:ZH-548	3	11979 nt	4	-	"human, invertebrates, vertebrates"	8/11/10	8/13/18
+Rocio virus	NC_040776	complete	strain:SPH 34675	-	10794 nt	1	3	"human, invertebrates"	2/12/19	6/3/19
+Ross River virus	NC_001544	complete	strain:NB5092	-	11657 nt	3	22	"human, invertebrates, vertebrates"	8/3/93	8/13/18
+Rotavirus A	-	complete	strain:RVA/Simian-tc/ZAF/SA11-H96/1958/G3P5B[2]; serotype:G3	11	18562 nt	12	-	"human, vertebrates"	10/30/08	8/13/18
+Rotavirus C	-	complete	strain:Bristol; isolate:4077-89	11	17910 nt	11	-	"human, vertebrates"	5/10/93	8/13/18
+Rubella virus	NC_001545	complete	strain:F-Therien	-	9762 nt	2	159	human	8/3/93	8/13/18
+SARS coronavirus Tor2	NC_004718	complete	isolate:Tor2	-	29751 nt	15	366	"human, vertebrates"	4/14/03	11/20/20
+SFTS virus HB29	-	complete	strain:HB29	3	11490 nt	4	-	"human, invertebrates, vertebrates"	7/13/12	8/13/18
+STL polyomavirus	NC_020106	complete	strain:MA138	-	4776 nt	6	6	human	1/11/13	8/13/18
+Sabia virus	-	complete	strain:SPH114202	2	10499 nt	4	-	human	9/24/04	8/13/18
+Saffold virus	NC_009448	complete	-	-	8115 nt	2	44	"human, vertebrates"	5/9/07	8/13/18
+Salivirus A	NC_012986	complete	serotype:1; isolate:02394-01	-	7989 nt	1	10	"human, vertebrates"	7/20/09	8/13/18
+Salivirus FHB	NC_025114	complete	isolate:SaliV-FHB	-	7998 nt	1	-	human	9/29/14	8/13/18
+Salivirus NG-J1	NC_012957	complete	strain:NG-J1	-	7982 nt	1	10	"human, vertebrates"	7/13/09	8/13/18
+Sapovirus C12	NC_006554	complete	strain:C12	-	7476 nt	2	200	"human, vertebrates"	12/17/04	8/13/18
+Sapovirus Hu/Dresden/pJG-Sap01/DE	NC_006269	complete	strain:Hu/Dresden/pJG-Sap01/DE	-	7429 nt	3	200	"human, vertebrates"	9/9/04	8/13/18
+Sapovirus Hu/Nagoya/NGY-1/2012/JPN	NC_027026	complete	strain:Hu/SaV/Nagoya/NGY-1/2012/JPN	-	7521 nt	2	200	"human, vertebrates"	5/14/15	8/13/18
+Sapovirus Mc10	NC_010624	complete	strain:Mc10	-	7458 nt	2	200	"human, vertebrates"	6/5/04	8/13/18
+Semliki Forest virus	NC_003215	complete	-	-	11442 nt	3	12	"human, invertebrates, vertebrates"	3/9/87	8/13/18
+Severe acute respiratory syndrome coronavirus 2	NC_045512	complete	isolate:Wuhan-Hu-1	-	29903 nt	12	366	"human, vertebrates"	1/13/20	7/18/20
+Severe fever with thrombocytopenia syndrome virus	-	complete	strain:HNXH	3	11272 nt	4	-	"human, invertebrates, vertebrates"	6/28/19	6/28/19
+Sewage-associated gemycircularvirus 5	NC_026161	complete	isolate:BS3963	-	2243 nt	3	-	human	1/13/15	8/13/18
+Sewage-associated gemycircularvirus-10a	NC_026169	complete	isolate:BS3980	-	2249 nt	3	3	human	1/13/15	8/13/18
+Shokwe virus	-	complete	strain:SAAr 4042	3	12228 nt	4	-	"human, invertebrates, vertebrates"	5/7/23	5/8/23
+Simian Agent 10	NC_038270	complete	-	-	15462 nt	8	436	"human, vertebrates"	8/24/18	8/24/18
+Simian T-lymphotropic virus 2	NC_001815	complete	strain:PP1664; isolate:STLV-2PP1664	-	8855 nt	7	15	"human, vertebrates"	4/29/98	8/13/18
+Simian foamy virus	NC_001364	complete	-	-	13246 nt	6	-	"human, vertebrates"	7/5/94	8/13/18
+Simian immunodeficiency virus	NC_001549	complete	isolate:677	-	9623 nt	6	547	"human, vertebrates"	8/3/93	8/13/18
+Simian immunodeficiency virus SIV-mnd 2	NC_004455	complete	isolate:SIVmnd-2	-	9518 nt	8	547	"human, vertebrates"	12/20/02	8/13/18
+Simian pegivirus	NC_024377	complete	strain:SPgVkrc; isolate:SPgVkrc_RC08	-	9525 nt	1	69	"human, vertebrates"	6/24/14	8/13/18
+Simian retrovirus 4	NC_014474	complete	strain:SRV4/TEX/2009/V1	-	8126 nt	4	4	"human, vertebrates"	9/8/10	8/13/18
+Sindbis virus	NC_001547	complete	-	-	11703 nt	4	233	"human, invertebrates, vertebrates"	8/3/93	8/13/18
+Small anellovirus 1	NC_007013	complete	-	-	2249 nt	3	-	"human, vertebrates"	5/21/05	8/13/18
+Small anellovirus 2	NC_007014	complete	-	-	2635 nt	5	-	"human, vertebrates"	5/21/05	8/13/18
+Sosuga virus	NC_025343	complete	isolate:2012	-	15480 nt	7	-	"human, vertebrates"	10/27/14	8/13/18
+Spondweni virus	NC_029055	complete	strain:SM-6 V-1	-	10290 nt	1	15	"human, invertebrates"	2/5/16	8/1/19
+St. Louis encephalitis virus	NC_007580	complete	strain:Kern217	-	10940 nt	1	42	"human, invertebrates, vertebrates"	11/4/05	5/24/19
+Sudan ebolavirus	NC_006432	complete	isolate:Sudan virus/H.sapiens-tc/UGA/2000/Gulu-808892	-	18875 nt	9	23	"human, vertebrates"	11/15/04	8/13/18
+Suid alphaherpesvirus 1	NC_006151	complete	strain:Composite of 6 strains	-	143461 nt	69	107	"human, vertebrates"	8/26/04	8/13/18
+TTV-like mini virus	NC_020498	complete	isolate:TTMV_LY1	-	2912 nt	3	11	"human, vertebrates"	3/25/13	8/13/18
+Tacheng Tick Virus 2	-	complete	strain:TC252	2	8844 nt	2	-	"human, invertebrates, vertebrates"	6/1/21	6/7/21
+Tahyna virus	-	complete	strain:XJ0625	3	12446 nt	4	-	"human, invertebrates"	6/1/21	6/7/21
+Tai Forest ebolavirus	NC_014372	complete	isolate:Tai Forest virus/H.sapiens-tc/CIV/1994/Pauleoula-CI	-	18935 nt	9	2	"human, vertebrates"	8/5/10	8/13/18
+Tataguine virus	-	complete	strain:H9963	3	12052 nt	3	-	"human, invertebrates"	6/28/19	6/28/19
+Tembusu virus	NC_015843	complete	strain:JS804	-	10990 nt	1	171	"human, invertebrates, vertebrates"	7/15/11	8/13/18
+Theilovirus	NC_001366	complete	strain:GDVII; sub-species:Theiler's encephalomyelitis virus	-	8101 nt	3	44	"human, vertebrates"	11/14/90	8/13/18
+Thogotovirus dhoriense	-	incomplete	isolate:Dhori/1313/61	6	10616 nt	6	-	human	4/5/17	8/13/18
+Tibrovirus congo	NC_043067	incomplete	isolate:BASV-1	-	11892 nt	8	-	human	6/28/19	6/28/19
+Tick-borne encephalitis virus	NC_001672	complete	-	-	11141 nt	1	246	"human, invertebrates, vertebrates"	9/5/95	5/23/19
+Torque teno midi virus 1	NC_009225	complete	isolate:MD1-032	-	3245 nt	4	1	human	3/27/07	8/13/18
+Torque teno midi virus 10	NC_038357	complete	isolate:MDJN14	-	3175 nt	4	1	human	8/24/18	8/24/18
+Torque teno midi virus 11	NC_038358	complete	isolate:MDJN47	-	3198 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 12	NC_038359	complete	isolate:MDJN51	-	3187 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 13	NC_038360	complete	isolate:MDJN69	-	3230 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 14	NC_038361	complete	isolate:MDJN97	-	3223 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 2	NC_014093	complete	isolate:MD2-013	-	3253 nt	4	-	human	4/30/10	8/13/18
+Torque teno midi virus 3	NC_038350	complete	isolate:2PoSMA	-	2002 nt	2	-	human	8/24/18	8/24/18
+Torque teno midi virus 4	NC_038351	complete	isolate:6PoSMA	-	2454 nt	3	-	human	8/24/18	8/24/18
+Torque teno midi virus 5	NC_038352	complete	isolate:MDJHem2	-	3208 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 6	NC_038353	complete	isolate:MDJHem3-1	-	3198 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 7	NC_038354	complete	isolate:MDJHem3-2	-	3197 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 8	NC_038355	complete	isolate:MDJN1	-	3223 nt	4	-	human	8/24/18	8/24/18
+Torque teno midi virus 9	NC_038356	complete	isolate:MDJN2	-	3187 nt	4	-	human	8/24/18	8/24/18
+Torque teno mini virus 1	NC_014097	complete	isolate:TLMV-CBD279	-	2856 nt	3	-	human	4/30/10	8/13/18
+Torque teno mini virus 10	NC_038345	complete	isolate:LIL-y1	-	2887 nt	4	21	human	8/24/18	8/24/18
+Torque teno mini virus 11	NC_038346	complete	isolate:LIL-y2	-	2871 nt	3	-	human	8/24/18	8/24/18
+Torque teno mini virus 12	NC_038347	complete	isolate:LIL-y3	-	2912 nt	4	-	human	8/24/18	8/24/18
+Torque teno mini virus 18	NC_030297	complete	isolate:222	-	2803 nt	3	-	human	6/10/16	8/13/18
+Torque teno mini virus 2	NC_014086	complete	isolate:TLMV-NLC023	-	2765 nt	3	-	human	4/29/10	8/13/18
+Torque teno mini virus 3	NC_014088	complete	isolate:TLMV-NLC026	-	2897 nt	3	-	human	4/30/10	8/13/18
+Torque teno mini virus 5	NC_014089	complete	isolate:TGP96	-	2908 nt	3	-	human	4/30/10	8/13/18
+Torque teno mini virus 6	NC_014095	complete	isolate:TLMV-CBD203	-	2897 nt	3	-	human	4/30/10	8/13/18
+Torque teno mini virus 8	NC_014068	complete	isolate:PB4TL	-	2910 nt	2	-	human	4/29/10	8/13/18
+Torque teno mini virus ALA22	NC_025726	complete	isolate:TTMV-ALA22	-	2914 nt	3	-	human	11/26/14	8/13/18
+Torque teno mini virus ALH8	NC_025727	complete	isolate:TTMV-ALH8	-	2855 nt	2	-	human	11/26/14	8/13/18
+Torque teno virus	NC_015783	complete	isolate:TTV-HD14a (gbDhDi33.32)	-	3725 nt	-	167	"human, vertebrates"	7/6/11	8/13/18
+Torque teno virus 1	NC_002076	complete	isolate:VT416	-	3852 nt	3	19	"human, vertebrates"	3/13/98	8/13/18
+Torque teno virus 10	NC_014076	complete	isolate:JT34F	-	3770 nt	4	1	human	4/29/10	8/13/18
+Torque teno virus 2	NC_014480	complete	isolate:s-TTV CH71	-	3322 nt	2	-	"human, vertebrates"	9/8/10	8/13/18
+Torque teno virus 25	NC_014083	complete	isolate:Mf-TTV9	-	3763 nt	3	-	human	4/29/10	8/13/18
+Torque teno virus 27	NC_014074	complete	isolate:CT23F	-	3729 nt	4	-	human	4/29/10	8/13/18
+Torque teno virus 3	NC_014081	complete	strain:HEL32	-	3748 nt	6	-	human	4/29/10	8/13/18
+Torque teno virus 6	NC_014094	complete	isolate:KAV	-	3705 nt	4	-	human	4/30/10	8/13/18
+Torque teno virus 7	NC_014080	complete	isolate:PMV	-	3736 nt	3	2	human	4/29/10	8/13/18
+Torque teno virus 9	NC_038337	complete	isolate:BM1C	-	3064 nt	1	-	human	8/24/18	8/24/18
+Trichodysplasia spinulosa-associated polyomavirus	NC_014361	complete	-	-	5232 nt	5	23	human	8/5/10	8/13/18
+Trichomonas vaginalis virus	NC_003824	complete	strain:T1	-	4647 nt	2	-	"human, protozoa"	3/9/95	8/13/18
+Turkey coronavirus	NC_010800	complete	isolate:MG10	-	27657 nt	11	442	"human, vertebrates"	6/3/08	8/13/18
+Umbre virus	-	complete	strain:NIV631308	6	24702 nt	8	-	"human, invertebrates"	5/6/23	5/7/23
+Usutu virus	NC_006551	complete	strain:Vienna 2001	-	11066 nt	2	290	"human, invertebrates, vertebrates"	12/17/04	5/24/19
+Vaccinia virus	NC_006998	complete	strain:WR (Western Reserve)	-	194711 nt	223	104	"human, vertebrates"	5/19/05	8/13/18
+Variegated squirrel bornavirus 1	NC_030701	complete	isolate:squirrel brain	-	8798 nt	6	24	"human, vertebrates"	7/9/15	8/13/18
+Variola virus	NC_001611	complete	"strain:India-1967, ssp. major; isolate:Ind3"	-	185578 nt	197	50	human	5/4/93	12/20/20
+Venezuelan equine encephalitis virus	NC_001449	complete	-	-	11444 nt	4	140	"human, invertebrates, vertebrates"	6/11/93	8/13/18
+Vesicular exanthema of swine virus	NC_002551	complete	-	-	8284 nt	3	5	"human, vertebrates"	3/3/97	8/13/18
+Vesiculovirus jurona	NC_039206	complete	strain:BeAr40578	-	11121 nt	5	1	"human, invertebrates"	8/24/18	8/24/18
+WU Polyomavirus	NC_009539	complete	strain:B0	-	5229 nt	5	152	human	6/7/07	8/13/18
+Walrus calicivirus	NC_004541	complete	-	-	8289 nt	3	5	"human, vertebrates"	1/23/03	8/13/18
+Wesselsbron virus	NC_012735	complete	strain:SAH177	-	10814 nt	1	6	"human, invertebrates, vertebrates"	6/2/09	6/4/19
+West Nile virus	-	complete	strain:NY99; isolate:385-99	2	21991 nt	5	-	"human, invertebrates, vertebrates"	10/19/07	8/1/19
+Western equine encephalitis virus	NC_003908	complete	strain:71V-1658	-	11484 nt	3	45	"human, invertebrates, vertebrates"	1/27/00	8/13/18
+Yaba-like disease virus	NC_002642	complete	-	-	144575 nt	152	1	human	1/6/01	12/20/20
+Yellow fever virus	NC_002031	complete	strain:17D vaccine strain	-	10862 nt	1	320	"human, invertebrates, vertebrates"	11/18/86	5/23/19
+Zaire ebolavirus	NC_002549	complete	isolate:Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga	-	18959 nt	9	1581	"human, vertebrates"	2/10/99	8/13/18
+Zika virus	-	complete	strain:MR 766	2	21602 nt	2	-	"human, invertebrates, vertebrates"	4/6/09	8/1/19
+adeno-associated virus 2	NC_001401	complete	-	-	4679 nt	9	5	"human, vertebrates"	4/27/93	8/13/18
+aichivirus A1	NC_001918	complete	isolate:A846/88	-	8251 nt	1	26	"human, vertebrates"	7/9/98	8/13/18
+dengue virus type 1	NC_001477	complete	type:1	-	10735 nt	1	-	"human, invertebrates, vertebrates"	2/28/97	5/3/19
+dengue virus type 2	NC_001474	complete	strain:16681	-	10723 nt	1	6563	"human, invertebrates, vertebrates"	8/2/93	7/11/19
+dengue virus type 3	NC_001475	complete	isolate:D3/H/IMTSSA-SRI/2000/1266	-	10707 nt	1	6563	"human, invertebrates, vertebrates"	8/2/93	7/11/19
+dengue virus type 4	NC_002640	complete	-	-	10649 nt	1	6563	"human, invertebrates, vertebrates"	1/3/01	7/11/19
+enterovirus A114	NC_030454	complete	strain:V13-0285; serotype:EV-A114	-	7317 nt	1	3092	"human, vertebrates"	7/12/16	9/13/20
+enterovirus D68	NC_038308	complete	strain:Fermon	-	7367 nt	1	894	human	8/24/18	8/24/18
+human gammaherpesvirus 4	NC_007605	complete	strain:B95-8; strain:Raji; type:1	-	171823 nt	94	657	"human, vertebrates"	10/9/02	8/13/18
+human metapneumovirus	NC_039199	complete	isolate:00-1	-	13350 nt	9	343	"human, vertebrates"	8/25/18	8/25/18
+human papillomavirus 10	NC_001576	complete	-	-	7919 nt	7	3	human	8/22/93	8/13/18
+human papillomavirus 101	NC_008189	complete	type:101; isolate:Qv23954	-	7259 nt	6	12	human	6/21/06	8/13/18
+human papillomavirus 103	NC_008188	complete	type:103; isolate:Qv33725	-	7263 nt	6	12	human	6/21/06	8/13/18
+human papillomavirus 108	NC_012213	complete	-	-	7149 nt	5	12	human	3/9/09	6/4/19
+human papillomavirus 112	NC_012486	complete	-	-	7227 nt	7	6	human	3/31/09	8/13/18
+human papillomavirus 128	NC_014952	complete	-	-	7259 nt	7	3	"human, vertebrates"	1/24/11	6/4/19
+human papillomavirus 129	NC_014953	complete	-	-	7219 nt	7	4	human	1/24/11	6/4/19
+human papillomavirus 131	NC_014954	complete	isolate:27-49	-	7182 nt	7	1	human	1/24/11	6/4/19
+human papillomavirus 137	NC_017995	complete	isolate:NJ2801H	-	7236 nt	7	1	human	6/4/12	8/13/18
+human papillomavirus 163	NC_028125	complete	isolate:KC3	-	7233 nt	6	1	human	10/30/15	8/13/18
+human papillomavirus 166	NC_019023	complete	isolate:KC9	-	7212 nt	6	2	human	10/29/12	8/13/18
+human papillomavirus 30	NC_038889	complete	-	-	7852 nt	6	129	human	8/22/93	8/24/18
+human papillomavirus 71	NC_039089	complete	-	-	8017 nt	1	19	"human, vertebrates"	8/24/18	8/24/18
+human respiratory syncytial virus	-	complete	strain:B1	2	30447 nt	22	-	human	11/2/97	12/11/20
+parechovirus A1	NC_038319	complete	-	-	7339 nt	1	329	"human, vertebrates"	8/24/18	8/24/18
+rhinovirus A1	NC_038311	complete	strain:ATCC VR-1559; culture-collection:ATCC:VR-1559	-	7137 nt	1	848	"human, vertebrates"	8/24/18	8/24/18
+rhinovirus A107	NC_076045	incomplete	-	-	990 nt	1	-	"human, vertebrates"	5/4/23	5/4/23
+rhinovirus B14	NC_001490	complete	-	-	7212 nt	1	163	human	8/2/93	3/5/22
+rhinovirus B3	NC_038312	complete	serotype:3	-	7208 nt	1	163	human	8/24/18	6/4/19
+rosavirus A1	NC_038880	complete	strain:Rosa.M-7	-	8749 nt	1	-	"human, vertebrates"	8/24/18	8/24/18
+rosavirus A2	NC_024070	complete	strain:GA7403	-	8931 nt	1	-	"human, vertebrates"	5/5/14	8/13/18
+sandfly fever Turkey virus	-	complete	strain:Izmir 19	3	12603 nt	4	-	"human, invertebrates"	4/26/11	8/13/18
+simian adenovirus 1	NC_006879	complete	strain:ATCC VR-195	-	34450 nt	35	-	"human, vertebrates"	3/17/05	12/20/20
