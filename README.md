@@ -49,5 +49,5 @@ Then, navigate to the following notebook and execute the modules sequentially:
 ## Citation
 The citation for the manuscript will be updated once the paper is published...
 ```
-Pending Cell  pubication. 
+Pending Cell pubication. 
 ```
