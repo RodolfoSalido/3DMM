@@ -1,4 +1,6 @@
 # Three-Dimensional Microbial Mapping (3DMM)
+![3DMM patch](./patch_odd_resized_alt.png)
+
 This repository contains scripted workflows for microbiome data analysis to reproduce the key findings of the paper **_The International Space Station Has a Unique and Extreme Microbial and Chemical Environment Driven by Use Patterns_** and generate most of the published figures. 
 
 ## Summary of findings. 
