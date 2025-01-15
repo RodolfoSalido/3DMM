@@ -391,8 +391,10 @@ dependencies:
   - zlib=1.2.11=h6c3fc93_1014
   - zstd=1.5.0=h582d3a0_0
   - pip:
+      - empress==1.2.0
       - gemelli==0.0.10
       - iow==1.0.6
+      - matplotlib-venn==0.11.7
       - statannotations==0.6.0
       - tax2tree==1.1
 prefix: /Users/rsalidob/miniconda3/envs/qiime2-2021.8
